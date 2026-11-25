@@ -1,0 +1,50 @@
+name: Atualizar Preços de Cervejas
+
+on:
+  schedule:
+    # Horários em UTC (BRT = UTC-3):
+    # 11:00 UTC = 08:00 BRT
+    # 15:00 UTC = 12:00 BRT
+    # 20:00 UTC = 17:00 BRT
+    # 00:30 UTC = 21:30 BRT
+    - cron: "0 11,15,20 * * *"
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Instalar dependências
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium --with-deps
+
+      - name: Executar Crawler
+        run: |
+          python -m scraper.main
+
+      - name: Commit e Push dos dados atualizados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: atualiza preços ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          else
+            echo "Nenhuma alteração nos dados."
+          fi

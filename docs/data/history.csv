@@ -1,0 +1,485 @@
+timestamp,id,brewery,store,price,price_per_liter,available
+2026-11-25T16:53:15-03:00,d6e89fdbddf4,Hacker-Pschorr,Casa Flora,15.9,31.8,True
+2026-11-25T16:53:15-03:00,5c9f21b8b389,Hacker-Pschorr,Casa Flora,15.9,31.8,True
+2026-11-25T16:53:15-03:00,c29000a04276,Goose Island,Casa Santa Luzia,11.4,32.11,True
+2026-11-25T16:53:15-03:00,e6ff38413326,Paulaner,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T16:53:15-03:00,3034d5726231,Paulaner,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T16:53:15-03:00,562ce8cc9582,Paulaner,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T16:53:15-03:00,092a422d8d1c,Hacker-Pschorr,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T16:53:15-03:00,8a230945ef96,Hacker-Pschorr,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T16:53:15-03:00,8fe72ed8fe81,Hacker-Pschorr,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T16:53:15-03:00,465629787f72,Paulaner,Casa Santa Luzia,17.4,34.8,True
+2026-11-25T16:53:15-03:00,fbf0f5ecb3a2,Paulaner,Casa Santa Luzia,18.9,37.8,True
+2026-11-25T16:53:15-03:00,444d6db8f1e0,Paulaner,Casa Santa Luzia,19.0,38.0,True
+2026-11-25T16:53:15-03:00,fc16b343da54,Paulaner,Casa Santa Luzia,19.0,38.0,True
+2026-11-25T16:53:15-03:00,573ce6b04f05,Paulaner,Casa Santa Luzia,19.0,38.0,True
+2026-11-25T16:53:15-03:00,f1f44b543c51,Paulaner,Casa Flora,19.9,39.8,True
+2026-11-25T16:53:15-03:00,18913fd3efdb,Paulaner,Casa Flora,19.9,39.8,True
+2026-11-25T16:53:15-03:00,802ede82e660,Paulaner,Casa Flora,19.9,39.8,True
+2026-11-25T16:53:15-03:00,b521a5b7e08a,Paulaner,Casa Flora,216.9,43.38,True
+2026-11-25T16:53:15-03:00,c688d582b1c5,Paulaner,Casa Flora,14.5,43.94,True
+2026-11-25T16:53:15-03:00,c5a7b178903d,Paulaner,Casa Flora,23.9,47.8,True
+2026-11-25T16:53:15-03:00,6bbfe7644b97,Paulaner,Casa Flora,23.9,47.8,True
+2026-11-25T16:53:15-03:00,59cdf11ea326,Paulaner,Casa Flora,23.9,47.8,True
+2026-11-25T16:53:15-03:00,b39e0d1f792c,Paulaner,Casa Santa Luzia,241.0,48.2,True
+2026-11-25T16:53:15-03:00,dbf9e56501aa,Pilsner Urquell,Casa Santa Luzia,24.7,49.4,True
+2026-11-25T16:53:15-03:00,ee4c1e2e2c61,Paulaner,Casa Santa Luzia,19.8,60.0,True
+2026-11-25T16:53:15-03:00,2231a11f7c82,Schlenkerla,Casa Santa Luzia,50.0,100.0,True
+2026-11-25T16:53:15-03:00,041d2097f422,Schlenkerla,Casa Santa Luzia,54.0,108.0,True
+2026-11-25T16:53:15-03:00,7cc655a8143a,Schlenkerla,Casa Santa Luzia,54.0,108.0,True
+2026-11-25T16:53:15-03:00,f6cafce4c5ee,De Halve Maan,Casa Santa Luzia,37.4,113.33,True
+2026-11-25T16:53:15-03:00,12c44aebd0bf,De Halve Maan,Casa Santa Luzia,40.0,121.21,True
+2026-11-25T16:53:15-03:00,98698671f58d,De Halve Maan,Casa Santa Luzia,96.0,128.0,True
+2026-11-25T16:53:15-03:00,8d5f7cb1c2c0,De Halve Maan,Casa Santa Luzia,99.0,132.0,True
+2026-11-25T16:53:15-03:00,095be98d1f3a,De Halve Maan,Casa Santa Luzia,46.0,139.39,True
+2026-11-25T16:53:15-03:00,ccb6368ef5c9,De Halve Maan,Casa Santa Luzia,48.0,145.45,True
+2026-11-25T16:53:15-03:00,b58a90d549ec,De Halve Maan,Casa Santa Luzia,115.0,153.33,True
+2026-11-25T16:53:15-03:00,e24b7ebb1c2d,De Halve Maan,Casa Santa Luzia,130.0,173.33,True
+2026-11-25T16:53:15-03:00,ee140e487e8c,Van Honsebrouck,Casa Santa Luzia,70.0,186.67,True
+2026-11-25T16:53:15-03:00,0d42b1f07fa1,Van Honsebrouck,Casa Santa Luzia,78.0,208.0,True
+2026-11-25T16:53:15-03:00,c10dbe411f24,Van Honsebrouck,Casa Santa Luzia,78.0,208.0,True
+2026-11-25T16:53:15-03:00,e197aee6dbc1,De Halve Maan,Casa Santa Luzia,229.0,305.33,True
+2026-11-25T16:53:15-03:00,9ad1600c30b1,De Halve Maan,Casa Santa Luzia,388.0,517.33,True
+2026-11-25T16:53:15-03:00,f26e156f52ca,Paulaner,Casa Flora,199.9,,True
+2026-11-25T16:53:15-03:00,b9285f077b6a,Bitburger,Casa Santa Luzia,22.0,44.0,False
+2026-11-25T16:53:15-03:00,b1c5157ff1a6,Hofbräu,Casa Santa Luzia,34.9,69.8,False
+2026-11-25T16:53:15-03:00,f7e1d16e52fd,De Halve Maan,Casa Santa Luzia,35.5,107.58,False
+2026-11-25T18:26:29-03:00,d6e89fdbddf4,Hacker-Pschorr,Casa Flora,15.9,31.8,True
+2026-11-25T18:26:29-03:00,5c9f21b8b389,Hacker-Pschorr,Casa Flora,15.9,31.8,True
+2026-11-25T18:26:29-03:00,c29000a04276,Goose Island,Casa Santa Luzia,11.4,32.11,True
+2026-11-25T18:26:29-03:00,e6ff38413326,Paulaner,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T18:26:29-03:00,3034d5726231,Paulaner,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T18:26:29-03:00,562ce8cc9582,Paulaner,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T18:26:29-03:00,092a422d8d1c,Hacker-Pschorr,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T18:26:29-03:00,8a230945ef96,Hacker-Pschorr,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T18:26:29-03:00,8fe72ed8fe81,Hacker-Pschorr,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T18:26:29-03:00,465629787f72,Paulaner,Casa Santa Luzia,17.4,34.8,True
+2026-11-25T18:26:29-03:00,fbf0f5ecb3a2,Paulaner,Casa Santa Luzia,18.9,37.8,True
+2026-11-25T18:26:29-03:00,444d6db8f1e0,Paulaner,Casa Santa Luzia,19.0,38.0,True
+2026-11-25T18:26:29-03:00,fc16b343da54,Paulaner,Casa Santa Luzia,19.0,38.0,True
+2026-11-25T18:26:29-03:00,573ce6b04f05,Paulaner,Casa Santa Luzia,19.0,38.0,True
+2026-11-25T18:26:29-03:00,f1f44b543c51,Paulaner,Casa Flora,19.9,39.8,True
+2026-11-25T18:26:29-03:00,18913fd3efdb,Paulaner,Casa Flora,19.9,39.8,True
+2026-11-25T18:26:29-03:00,802ede82e660,Paulaner,Casa Flora,19.9,39.8,True
+2026-11-25T18:26:29-03:00,b521a5b7e08a,Paulaner,Casa Flora,216.9,43.38,True
+2026-11-25T18:26:29-03:00,c688d582b1c5,Paulaner,Casa Flora,14.5,43.94,True
+2026-11-25T18:26:29-03:00,c5a7b178903d,Paulaner,Casa Flora,23.9,47.8,True
+2026-11-25T18:26:29-03:00,6bbfe7644b97,Paulaner,Casa Flora,23.9,47.8,True
+2026-11-25T18:26:29-03:00,59cdf11ea326,Paulaner,Casa Flora,23.9,47.8,True
+2026-11-25T18:26:29-03:00,b39e0d1f792c,Paulaner,Casa Santa Luzia,241.0,48.2,True
+2026-11-25T18:26:29-03:00,dbf9e56501aa,Pilsner Urquell,Casa Santa Luzia,24.7,49.4,True
+2026-11-25T18:26:29-03:00,ee4c1e2e2c61,Paulaner,Casa Santa Luzia,19.8,60.0,True
+2026-11-25T18:26:29-03:00,2231a11f7c82,Schlenkerla,Casa Santa Luzia,50.0,100.0,True
+2026-11-25T18:26:29-03:00,041d2097f422,Schlenkerla,Casa Santa Luzia,54.0,108.0,True
+2026-11-25T18:26:29-03:00,7cc655a8143a,Schlenkerla,Casa Santa Luzia,54.0,108.0,True
+2026-11-25T18:26:29-03:00,f6cafce4c5ee,De Halve Maan,Casa Santa Luzia,37.4,113.33,True
+2026-11-25T18:26:29-03:00,12c44aebd0bf,De Halve Maan,Casa Santa Luzia,40.0,121.21,True
+2026-11-25T18:26:29-03:00,98698671f58d,De Halve Maan,Casa Santa Luzia,96.0,128.0,True
+2026-11-25T18:26:29-03:00,8d5f7cb1c2c0,De Halve Maan,Casa Santa Luzia,99.0,132.0,True
+2026-11-25T18:26:29-03:00,095be98d1f3a,De Halve Maan,Casa Santa Luzia,46.0,139.39,True
+2026-11-25T18:26:29-03:00,ccb6368ef5c9,De Halve Maan,Casa Santa Luzia,48.0,145.45,True
+2026-11-25T18:26:29-03:00,b58a90d549ec,De Halve Maan,Casa Santa Luzia,115.0,153.33,True
+2026-11-25T18:26:29-03:00,e24b7ebb1c2d,De Halve Maan,Casa Santa Luzia,130.0,173.33,True
+2026-11-25T18:26:29-03:00,ee140e487e8c,Van Honsebrouck,Casa Santa Luzia,70.0,186.67,True
+2026-11-25T18:26:29-03:00,0d42b1f07fa1,Van Honsebrouck,Casa Santa Luzia,78.0,208.0,True
+2026-11-25T18:26:29-03:00,c10dbe411f24,Van Honsebrouck,Casa Santa Luzia,78.0,208.0,True
+2026-11-25T18:26:29-03:00,e197aee6dbc1,De Halve Maan,Casa Santa Luzia,229.0,305.33,True
+2026-11-25T18:26:29-03:00,9ad1600c30b1,De Halve Maan,Casa Santa Luzia,388.0,517.33,True
+2026-11-25T18:26:29-03:00,9d3cf34a91cb,Paulaner,Casa Flora,59.9,,True
+2026-11-25T18:26:29-03:00,b9285f077b6a,Bitburger,Casa Santa Luzia,22.0,44.0,False
+2026-11-25T18:26:29-03:00,b1c5157ff1a6,Hofbräu,Casa Santa Luzia,34.9,69.8,False
+2026-11-25T18:26:29-03:00,f7e1d16e52fd,De Halve Maan,Casa Santa Luzia,35.5,107.58,False
+2026-11-25T19:23:28-03:00,d6e89fdbddf4,Hacker-Pschorr,Casa Flora,15.9,31.8,True
+2026-11-25T19:23:28-03:00,5c9f21b8b389,Hacker-Pschorr,Casa Flora,15.9,31.8,True
+2026-11-25T19:23:28-03:00,c29000a04276,Goose Island,Casa Santa Luzia,11.4,32.11,True
+2026-11-25T19:23:28-03:00,e6ff38413326,Paulaner,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T19:23:28-03:00,3034d5726231,Paulaner,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T19:23:28-03:00,562ce8cc9582,Paulaner,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T19:23:28-03:00,092a422d8d1c,Hacker-Pschorr,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T19:23:28-03:00,8a230945ef96,Hacker-Pschorr,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T19:23:28-03:00,8fe72ed8fe81,Hacker-Pschorr,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T19:23:28-03:00,465629787f72,Paulaner,Casa Santa Luzia,17.4,34.8,True
+2026-11-25T19:23:28-03:00,f2105df747ab,Bitburger,Costi Bebidas,19.8,34.86,True
+2026-11-25T19:23:28-03:00,fbf0f5ecb3a2,Paulaner,Casa Santa Luzia,18.9,37.8,True
+2026-11-25T19:23:28-03:00,444d6db8f1e0,Paulaner,Casa Santa Luzia,19.0,38.0,True
+2026-11-25T19:23:28-03:00,fc16b343da54,Paulaner,Casa Santa Luzia,19.0,38.0,True
+2026-11-25T19:23:28-03:00,573ce6b04f05,Paulaner,Casa Santa Luzia,19.0,38.0,True
+2026-11-25T19:23:28-03:00,7516cad18974,Bitburger,Costi Bebidas,194.0,38.8,True
+2026-11-25T19:23:28-03:00,f1f44b543c51,Paulaner,Casa Flora,19.9,39.8,True
+2026-11-25T19:23:28-03:00,18913fd3efdb,Paulaner,Casa Flora,19.9,39.8,True
+2026-11-25T19:23:28-03:00,802ede82e660,Paulaner,Casa Flora,19.9,39.8,True
+2026-11-25T19:23:28-03:00,b521a5b7e08a,Paulaner,Casa Flora,216.9,43.38,True
+2026-11-25T19:23:28-03:00,c688d582b1c5,Paulaner,Casa Flora,14.5,43.94,True
+2026-11-25T19:23:28-03:00,f1e30afcd676,Bitburger,Costi Bebidas,23.5,47.0,True
+2026-11-25T19:23:28-03:00,c5a7b178903d,Paulaner,Casa Flora,23.9,47.8,True
+2026-11-25T19:23:28-03:00,6bbfe7644b97,Paulaner,Casa Flora,23.9,47.8,True
+2026-11-25T19:23:28-03:00,59cdf11ea326,Paulaner,Casa Flora,23.9,47.8,True
+2026-11-25T19:23:28-03:00,1b5340ec6d88,Bitburger,Costi Bebidas,23.9,47.8,True
+2026-11-25T19:23:28-03:00,b39e0d1f792c,Paulaner,Casa Santa Luzia,241.0,48.2,True
+2026-11-25T19:23:28-03:00,dbf9e56501aa,Pilsner Urquell,Casa Santa Luzia,24.7,49.4,True
+2026-11-25T19:23:28-03:00,95b81754bc9f,Paulaner,Costi Bebidas,25.9,51.8,True
+2026-11-25T19:23:28-03:00,687967a132fa,Paulaner,Costi Bebidas,29.9,59.8,True
+2026-11-25T19:23:28-03:00,6653198cad32,Paulaner,Costi Bebidas,29.9,59.8,True
+2026-11-25T19:23:28-03:00,ee4c1e2e2c61,Paulaner,Casa Santa Luzia,19.8,60.0,True
+2026-11-25T19:23:28-03:00,9e98f236feb7,Pilsner Urquell,Costi Bebidas,32.9,65.8,True
+2026-11-25T19:23:28-03:00,d53d7e50e4cf,Hofbräu,Costi Bebidas,34.5,69.0,True
+2026-11-25T19:23:28-03:00,496f14e46a5b,Paulaner,Costi Bebidas,34.9,69.8,True
+2026-11-25T19:23:28-03:00,4750042b8943,Paulaner,Costi Bebidas,34.9,69.8,True
+2026-11-25T19:23:28-03:00,6c17d421b9ea,Paulaner,Costi Bebidas,34.9,69.8,True
+2026-11-25T19:23:28-03:00,54b0df337b8a,Paulaner,Costi Bebidas,34.9,69.8,True
+2026-11-25T19:23:28-03:00,d233ec1cf3bc,Hofbräu,Costi Bebidas,34.9,69.8,True
+2026-11-25T19:23:28-03:00,012c748e7874,Hofbräu,Costi Bebidas,34.9,69.8,True
+2026-11-25T19:23:28-03:00,d37cc3f38c08,Schlenkerla,Costi Bebidas,35.8,71.6,True
+2026-11-25T19:23:28-03:00,fdb304ef34d0,Bitburger,Costi Bebidas,23.8,72.12,True
+2026-11-25T19:23:28-03:00,b9a33d033cc0,Pilsner Urquell,Costi Bebidas,38.9,77.8,True
+2026-11-25T19:23:28-03:00,1b488f60f29f,Paulaner,Clube do Malte,39.9,79.8,True
+2026-11-25T19:23:28-03:00,383e7a3f9d31,Hofbräu,Costi Bebidas,39.9,79.8,True
+2026-11-25T19:23:28-03:00,5e75e9fc574f,Hofbräu,Costi Bebidas,39.9,79.8,True
+2026-11-25T19:23:28-03:00,6035ed54b918,Schlenkerla,Costi Bebidas,42.5,85.0,True
+2026-11-25T19:23:28-03:00,5d85eb1025f8,Pilsner Urquell,Costi Bebidas,29.9,90.61,True
+2026-11-25T19:23:28-03:00,00d27ffea65f,Paulaner,Costi Bebidas,32.3,97.88,True
+2026-11-25T19:23:28-03:00,b2d53f7fb461,Duvel,Costi Bebidas,32.6,98.79,True
+2026-11-25T19:23:28-03:00,597ff746a4d3,Duvel,Costi Bebidas,32.6,98.79,True
+2026-11-25T19:23:28-03:00,b479d56ebb60,Schlenkerla,Costi Bebidas,49.5,99.0,True
+2026-11-25T19:23:28-03:00,3ca87c4aaa33,Schlenkerla,Costi Bebidas,49.9,99.8,True
+2026-11-25T19:23:28-03:00,2231a11f7c82,Schlenkerla,Casa Santa Luzia,50.0,100.0,True
+2026-11-25T19:23:28-03:00,657e8e563aab,Schlenkerla,Costi Bebidas,51.5,103.0,True
+2026-11-25T19:23:28-03:00,041d2097f422,Schlenkerla,Casa Santa Luzia,54.0,108.0,True
+2026-11-25T19:23:28-03:00,7cc655a8143a,Schlenkerla,Casa Santa Luzia,54.0,108.0,True
+2026-11-25T19:23:28-03:00,f6cafce4c5ee,De Halve Maan,Casa Santa Luzia,37.4,113.33,True
+2026-11-25T19:23:28-03:00,12c44aebd0bf,De Halve Maan,Casa Santa Luzia,40.0,121.21,True
+2026-11-25T19:23:28-03:00,98698671f58d,De Halve Maan,Casa Santa Luzia,96.0,128.0,True
+2026-11-25T19:23:28-03:00,36062f760c90,Schlenkerla,Costi Bebidas,64.8,129.6,True
+2026-11-25T19:23:28-03:00,8d5f7cb1c2c0,De Halve Maan,Casa Santa Luzia,99.0,132.0,True
+2026-11-25T19:23:28-03:00,7bbe61b095ee,Duvel,Costi Bebidas,44.9,136.06,True
+2026-11-25T19:23:28-03:00,095be98d1f3a,De Halve Maan,Casa Santa Luzia,46.0,139.39,True
+2026-11-25T19:23:28-03:00,472f19237823,Duvel,Costi Bebidas,46.8,141.82,True
+2026-11-25T19:23:28-03:00,ccb6368ef5c9,De Halve Maan,Casa Santa Luzia,48.0,145.45,True
+2026-11-25T19:23:28-03:00,b58a90d549ec,De Halve Maan,Casa Santa Luzia,115.0,153.33,True
+2026-11-25T19:23:28-03:00,9a55d0d54d8c,Pilsner Urquell,Costi Bebidas,77.8,155.6,True
+2026-11-25T19:23:28-03:00,e24b7ebb1c2d,De Halve Maan,Casa Santa Luzia,130.0,173.33,True
+2026-11-25T19:23:28-03:00,ee140e487e8c,Van Honsebrouck,Casa Santa Luzia,70.0,186.67,True
+2026-11-25T19:23:28-03:00,0d42b1f07fa1,Van Honsebrouck,Casa Santa Luzia,78.0,208.0,True
+2026-11-25T19:23:28-03:00,c10dbe411f24,Van Honsebrouck,Casa Santa Luzia,78.0,208.0,True
+2026-11-25T19:23:28-03:00,e197aee6dbc1,De Halve Maan,Casa Santa Luzia,229.0,305.33,True
+2026-11-25T19:23:28-03:00,9ad1600c30b1,De Halve Maan,Casa Santa Luzia,388.0,517.33,True
+2026-11-25T19:23:28-03:00,9d3cf34a91cb,Paulaner,Casa Flora,59.9,,True
+2026-11-25T19:23:28-03:00,9c2ebcbf6d3b,Hofbräu,Clube do Malte,71.7,,True
+2026-11-25T19:23:28-03:00,9c3c05f98fdc,Hofbräu,Clube do Malte,71.7,,True
+2026-11-25T19:23:28-03:00,b9285f077b6a,Bitburger,Casa Santa Luzia,22.0,44.0,False
+2026-11-25T19:23:28-03:00,b1c5157ff1a6,Hofbräu,Casa Santa Luzia,34.9,69.8,False
+2026-11-25T19:23:28-03:00,f7e1d16e52fd,De Halve Maan,Casa Santa Luzia,35.5,107.58,False
+2026-11-25T19:36:26-03:00,1d780fcd2451,Hacker-Pschorr,Nono Bier,11.95,23.9,True
+2026-11-25T19:36:26-03:00,75f5f71b8fd0,Hacker-Pschorr,Nono Bier,12.5,25.0,True
+2026-11-25T19:36:26-03:00,5c6a130d035a,Bitburger,Nono Bier,8.7,26.36,True
+2026-11-25T19:36:26-03:00,6e7471b323dc,Hacker-Pschorr,Nono Bier,13.95,27.9,True
+2026-11-25T19:36:26-03:00,d6e89fdbddf4,Hacker-Pschorr,Casa Flora,15.9,31.8,True
+2026-11-25T19:36:26-03:00,5c9f21b8b389,Hacker-Pschorr,Casa Flora,15.9,31.8,True
+2026-11-25T19:36:26-03:00,c29000a04276,Goose Island,Casa Santa Luzia,11.4,32.11,True
+2026-11-25T19:36:26-03:00,e6ff38413326,Paulaner,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T19:36:26-03:00,3034d5726231,Paulaner,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T19:36:26-03:00,562ce8cc9582,Paulaner,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T19:36:26-03:00,092a422d8d1c,Hacker-Pschorr,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T19:36:26-03:00,8a230945ef96,Hacker-Pschorr,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T19:36:26-03:00,8fe72ed8fe81,Hacker-Pschorr,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T19:36:26-03:00,f2a0a05614f7,Bitburger,Nono Bier,17.0,34.0,True
+2026-11-25T19:36:26-03:00,465629787f72,Paulaner,Casa Santa Luzia,17.4,34.8,True
+2026-11-25T19:36:26-03:00,f2105df747ab,Bitburger,Costi Bebidas,19.8,34.86,True
+2026-11-25T19:36:26-03:00,fbf0f5ecb3a2,Paulaner,Casa Santa Luzia,18.9,37.8,True
+2026-11-25T19:36:26-03:00,444d6db8f1e0,Paulaner,Casa Santa Luzia,19.0,38.0,True
+2026-11-25T19:36:26-03:00,fc16b343da54,Paulaner,Casa Santa Luzia,19.0,38.0,True
+2026-11-25T19:36:26-03:00,573ce6b04f05,Paulaner,Casa Santa Luzia,19.0,38.0,True
+2026-11-25T19:36:26-03:00,7516cad18974,Bitburger,Costi Bebidas,194.0,38.8,True
+2026-11-25T19:36:26-03:00,e4affb34ac33,Paulaner,Nono Bier,19.7,39.4,True
+2026-11-25T19:36:26-03:00,a0c81549e2a0,Paulaner,Nono Bier,197.0,39.4,True
+2026-11-25T19:36:26-03:00,f1f44b543c51,Paulaner,Casa Flora,19.9,39.8,True
+2026-11-25T19:36:26-03:00,18913fd3efdb,Paulaner,Casa Flora,19.9,39.8,True
+2026-11-25T19:36:26-03:00,802ede82e660,Paulaner,Casa Flora,19.9,39.8,True
+2026-11-25T19:36:26-03:00,d0c766bb08de,Pilsner Urquell,Nono Bier,61.8,41.2,True
+2026-11-25T19:36:26-03:00,89879adc6041,Paulaner,Nono Bier,20.95,41.9,True
+2026-11-25T19:36:26-03:00,d8ff213fe848,Paulaner,Nono Bier,20.95,41.9,True
+2026-11-25T19:36:26-03:00,6d12541a290f,Paulaner,Nono Bier,13.85,41.97,True
+2026-11-25T19:36:26-03:00,f91e72fba0ca,Bitburger,Nono Bier,21.5,43.0,True
+2026-11-25T19:36:26-03:00,b521a5b7e08a,Paulaner,Casa Flora,216.9,43.38,True
+2026-11-25T19:36:26-03:00,c688d582b1c5,Paulaner,Casa Flora,14.5,43.94,True
+2026-11-25T19:36:26-03:00,14a5ff06bc45,Pilsner Urquell,Nono Bier,23.0,46.0,True
+2026-11-25T19:36:26-03:00,f1e30afcd676,Bitburger,Costi Bebidas,23.5,47.0,True
+2026-11-25T19:36:26-03:00,c5a7b178903d,Paulaner,Casa Flora,23.9,47.8,True
+2026-11-25T19:36:26-03:00,6bbfe7644b97,Paulaner,Casa Flora,23.9,47.8,True
+2026-11-25T19:36:26-03:00,59cdf11ea326,Paulaner,Casa Flora,23.9,47.8,True
+2026-11-25T19:36:26-03:00,decbe42bc88f,Paulaner,Casa Flora,23.9,47.8,True
+2026-11-25T19:36:26-03:00,1b5340ec6d88,Bitburger,Costi Bebidas,23.9,47.8,True
+2026-11-25T19:36:26-03:00,b39e0d1f792c,Paulaner,Casa Santa Luzia,241.0,48.2,True
+2026-11-25T19:36:26-03:00,dbf9e56501aa,Pilsner Urquell,Casa Santa Luzia,24.7,49.4,True
+2026-11-25T19:36:26-03:00,95b81754bc9f,Paulaner,Costi Bebidas,25.9,51.8,True
+2026-11-25T19:36:26-03:00,687967a132fa,Paulaner,Costi Bebidas,29.9,59.8,True
+2026-11-25T19:36:26-03:00,6653198cad32,Paulaner,Costi Bebidas,29.9,59.8,True
+2026-11-25T19:36:26-03:00,ee4c1e2e2c61,Paulaner,Casa Santa Luzia,19.8,60.0,True
+2026-11-25T19:36:26-03:00,9e98f236feb7,Pilsner Urquell,Costi Bebidas,32.9,65.8,True
+2026-11-25T19:36:26-03:00,d53d7e50e4cf,Hofbräu,Costi Bebidas,34.5,69.0,True
+2026-11-25T19:36:26-03:00,496f14e46a5b,Paulaner,Costi Bebidas,34.9,69.8,True
+2026-11-25T19:36:26-03:00,4750042b8943,Paulaner,Costi Bebidas,34.9,69.8,True
+2026-11-25T19:36:26-03:00,6c17d421b9ea,Paulaner,Costi Bebidas,34.9,69.8,True
+2026-11-25T19:36:26-03:00,54b0df337b8a,Paulaner,Costi Bebidas,34.9,69.8,True
+2026-11-25T19:36:26-03:00,d233ec1cf3bc,Hofbräu,Costi Bebidas,34.9,69.8,True
+2026-11-25T19:36:26-03:00,012c748e7874,Hofbräu,Costi Bebidas,34.9,69.8,True
+2026-11-25T19:36:26-03:00,d37cc3f38c08,Schlenkerla,Costi Bebidas,35.8,71.6,True
+2026-11-25T19:36:26-03:00,fdb304ef34d0,Bitburger,Costi Bebidas,23.8,72.12,True
+2026-11-25T19:36:26-03:00,b9a33d033cc0,Pilsner Urquell,Costi Bebidas,38.9,77.8,True
+2026-11-25T19:36:26-03:00,1b488f60f29f,Paulaner,Clube do Malte,39.9,79.8,True
+2026-11-25T19:36:26-03:00,383e7a3f9d31,Hofbräu,Costi Bebidas,39.9,79.8,True
+2026-11-25T19:36:26-03:00,5e75e9fc574f,Hofbräu,Costi Bebidas,39.9,79.8,True
+2026-11-25T19:36:26-03:00,6035ed54b918,Schlenkerla,Costi Bebidas,42.5,85.0,True
+2026-11-25T19:36:26-03:00,67916c0f39bf,De Halve Maan,Nono Bier,28.95,87.73,True
+2026-11-25T19:36:26-03:00,9158ce0bab9b,De Halve Maan,Nono Bier,29.5,89.39,True
+2026-11-25T19:36:26-03:00,5d85eb1025f8,Pilsner Urquell,Costi Bebidas,29.9,90.61,True
+2026-11-25T19:36:26-03:00,a61ce522b8ef,De Halve Maan,Nono Bier,29.9,90.61,True
+2026-11-25T19:36:26-03:00,00d27ffea65f,Paulaner,Costi Bebidas,32.3,97.88,True
+2026-11-25T19:36:26-03:00,1255b9e703b2,Schlenkerla,Nono Bier,49.0,98.0,True
+2026-11-25T19:36:26-03:00,ff9e3a323b0a,Duvel,Nono Bier,32.5,98.48,True
+2026-11-25T19:36:26-03:00,d48969fe7e3b,Duvel,Nono Bier,32.5,98.48,True
+2026-11-25T19:36:26-03:00,b2d53f7fb461,Duvel,Costi Bebidas,32.6,98.79,True
+2026-11-25T19:36:26-03:00,597ff746a4d3,Duvel,Costi Bebidas,32.6,98.79,True
+2026-11-25T19:36:26-03:00,b479d56ebb60,Schlenkerla,Costi Bebidas,49.5,99.0,True
+2026-11-25T19:36:26-03:00,3ca87c4aaa33,Schlenkerla,Costi Bebidas,49.9,99.8,True
+2026-11-25T19:36:26-03:00,2231a11f7c82,Schlenkerla,Casa Santa Luzia,50.0,100.0,True
+2026-11-25T19:36:26-03:00,657e8e563aab,Schlenkerla,Costi Bebidas,51.5,103.0,True
+2026-11-25T19:36:26-03:00,041d2097f422,Schlenkerla,Casa Santa Luzia,54.0,108.0,True
+2026-11-25T19:36:26-03:00,7cc655a8143a,Schlenkerla,Casa Santa Luzia,54.0,108.0,True
+2026-11-25T19:36:26-03:00,f6cafce4c5ee,De Halve Maan,Casa Santa Luzia,37.4,113.33,True
+2026-11-25T19:36:26-03:00,1f32f11c38d3,De Halve Maan,Nono Bier,37.5,113.64,True
+2026-11-25T19:36:26-03:00,83d7424badd7,De Halve Maan,Nono Bier,37.5,113.64,True
+2026-11-25T19:36:26-03:00,c3dcbb6e79c4,Schlenkerla,Nono Bier,56.9,113.8,True
+2026-11-25T19:36:26-03:00,8f2517d91f98,Schlenkerla,Nono Bier,56.9,113.8,True
+2026-11-25T19:36:26-03:00,90e7d6601394,Schlenkerla,Nono Bier,56.9,113.8,True
+2026-11-25T19:36:26-03:00,6d51402da294,De Halve Maan,Nono Bier,38.75,117.42,True
+2026-11-25T19:36:26-03:00,d87ebaaf2e21,De Halve Maan,Nono Bier,89.0,118.67,True
+2026-11-25T19:36:26-03:00,12c44aebd0bf,De Halve Maan,Casa Santa Luzia,40.0,121.21,True
+2026-11-25T19:36:26-03:00,5117dfbd4987,Schlenkerla,Nono Bier,127.0,127.0,True
+2026-11-25T19:36:26-03:00,98698671f58d,De Halve Maan,Casa Santa Luzia,96.0,128.0,True
+2026-11-25T19:36:26-03:00,51ee6206a9b1,De Halve Maan,Nono Bier,97.0,129.33,True
+2026-11-25T19:36:26-03:00,36062f760c90,Schlenkerla,Costi Bebidas,64.8,129.6,True
+2026-11-25T19:36:26-03:00,8d5f7cb1c2c0,De Halve Maan,Casa Santa Luzia,99.0,132.0,True
+2026-11-25T19:36:26-03:00,f73d9000eacf,De Halve Maan,Nono Bier,220.0,133.33,True
+2026-11-25T19:36:26-03:00,f322c2bef3ef,De Halve Maan,Nono Bier,220.0,133.33,True
+2026-11-25T19:36:26-03:00,7bbe61b095ee,Duvel,Costi Bebidas,44.9,136.06,True
+2026-11-25T19:36:26-03:00,095be98d1f3a,De Halve Maan,Casa Santa Luzia,46.0,139.39,True
+2026-11-25T19:36:26-03:00,472f19237823,Duvel,Costi Bebidas,46.8,141.82,True
+2026-11-25T19:36:26-03:00,ccb6368ef5c9,De Halve Maan,Casa Santa Luzia,48.0,145.45,True
+2026-11-25T19:36:26-03:00,14eb775b87c0,Duvel,Nono Bier,48.0,145.45,True
+2026-11-25T19:36:26-03:00,23d9bd532d66,Schlenkerla,Nono Bier,76.0,152.0,True
+2026-11-25T19:36:26-03:00,b58a90d549ec,De Halve Maan,Casa Santa Luzia,115.0,153.33,True
+2026-11-25T19:36:26-03:00,9a55d0d54d8c,Pilsner Urquell,Costi Bebidas,77.8,155.6,True
+2026-11-25T19:36:26-03:00,5d4c6979eb68,Pilsner Urquell,Nono Bier,80.0,160.0,True
+2026-11-25T19:36:26-03:00,1138b09567ad,De Halve Maan,Nono Bier,120.0,160.0,True
+2026-11-25T19:36:26-03:00,e24b7ebb1c2d,De Halve Maan,Casa Santa Luzia,130.0,173.33,True
+2026-11-25T19:36:26-03:00,ee140e487e8c,Van Honsebrouck,Casa Santa Luzia,70.0,186.67,True
+2026-11-25T19:36:26-03:00,c10dbe411f24,Van Honsebrouck,Casa Santa Luzia,78.0,208.0,True
+2026-11-25T19:36:26-03:00,0d42b1f07fa1,Van Honsebrouck,Casa Santa Luzia,78.0,208.0,True
+2026-11-25T19:36:26-03:00,9c0bf0246b55,De Halve Maan,Nono Bier,87.0,263.64,True
+2026-11-25T19:36:26-03:00,9a25808f69b7,De Halve Maan,Nono Bier,199.0,265.33,True
+2026-11-25T19:36:26-03:00,e197aee6dbc1,De Halve Maan,Casa Santa Luzia,229.0,305.33,True
+2026-11-25T19:36:26-03:00,0fff0390cb4d,De Halve Maan,Nono Bier,262.0,349.33,True
+2026-11-25T19:36:26-03:00,8e616df94e54,De Halve Maan,Nono Bier,280.0,373.33,True
+2026-11-25T19:36:26-03:00,9befb322d4b7,De Halve Maan,Nono Bier,295.0,393.33,True
+2026-11-25T19:36:26-03:00,37af79a6bacf,De Halve Maan,Nono Bier,340.0,453.33,True
+2026-11-25T19:36:26-03:00,37de4fa17e1a,De Halve Maan,Nono Bier,350.0,466.67,True
+2026-11-25T19:36:26-03:00,9ad1600c30b1,De Halve Maan,Casa Santa Luzia,388.0,517.33,True
+2026-11-25T19:36:26-03:00,0a08ce54a189,De Halve Maan,Nono Bier,58.0,,True
+2026-11-25T19:36:26-03:00,9d3cf34a91cb,Paulaner,Casa Flora,59.9,,True
+2026-11-25T19:36:26-03:00,9c2ebcbf6d3b,Hofbräu,Clube do Malte,71.7,,True
+2026-11-25T19:36:26-03:00,9c3c05f98fdc,Hofbräu,Clube do Malte,71.7,,True
+2026-11-25T19:36:26-03:00,37103ae59625,De Halve Maan,Nono Bier,164.0,,True
+2026-11-25T19:36:26-03:00,b9285f077b6a,Bitburger,Casa Santa Luzia,22.0,44.0,False
+2026-11-25T19:36:26-03:00,b1c5157ff1a6,Hofbräu,Casa Santa Luzia,34.9,69.8,False
+2026-11-25T19:36:26-03:00,f7e1d16e52fd,De Halve Maan,Casa Santa Luzia,35.5,107.58,False
+2026-11-25T20:07:51-03:00,1d780fcd2451,Hacker-Pschorr,Nono Bier,11.95,23.9,True
+2026-11-25T20:07:51-03:00,75f5f71b8fd0,Hacker-Pschorr,Nono Bier,12.5,25.0,True
+2026-11-25T20:07:51-03:00,5c6a130d035a,Bitburger,Nono Bier,8.7,26.36,True
+2026-11-25T20:07:51-03:00,6e7471b323dc,Hacker-Pschorr,Nono Bier,13.95,27.9,True
+2026-11-25T20:07:51-03:00,d6e89fdbddf4,Hacker-Pschorr,Casa Flora,15.9,31.8,True
+2026-11-25T20:07:51-03:00,5c9f21b8b389,Hacker-Pschorr,Casa Flora,15.9,31.8,True
+2026-11-25T20:07:51-03:00,c29000a04276,Goose Island,Casa Santa Luzia,11.4,32.11,True
+2026-11-25T20:07:51-03:00,e6ff38413326,Paulaner,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T20:07:51-03:00,3034d5726231,Paulaner,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T20:07:51-03:00,562ce8cc9582,Paulaner,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T20:07:51-03:00,092a422d8d1c,Hacker-Pschorr,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T20:07:51-03:00,8a230945ef96,Hacker-Pschorr,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T20:07:51-03:00,8fe72ed8fe81,Hacker-Pschorr,Casa Santa Luzia,16.9,33.8,True
+2026-11-25T20:07:51-03:00,f2a0a05614f7,Bitburger,Nono Bier,17.0,34.0,True
+2026-11-25T20:07:51-03:00,465629787f72,Paulaner,Casa Santa Luzia,17.4,34.8,True
+2026-11-25T20:07:51-03:00,f2105df747ab,Bitburger,Costi Bebidas,19.8,34.86,True
+2026-11-25T20:07:51-03:00,fbf0f5ecb3a2,Paulaner,Casa Santa Luzia,18.9,37.8,True
+2026-11-25T20:07:51-03:00,444d6db8f1e0,Paulaner,Casa Santa Luzia,19.0,38.0,True
+2026-11-25T20:07:51-03:00,fc16b343da54,Paulaner,Casa Santa Luzia,19.0,38.0,True
+2026-11-25T20:07:51-03:00,573ce6b04f05,Paulaner,Casa Santa Luzia,19.0,38.0,True
+2026-11-25T20:07:51-03:00,7516cad18974,Bitburger,Costi Bebidas,194.0,38.8,True
+2026-11-25T20:07:51-03:00,e4affb34ac33,Paulaner,Nono Bier,19.7,39.4,True
+2026-11-25T20:07:51-03:00,a0c81549e2a0,Paulaner,Nono Bier,197.0,39.4,True
+2026-11-25T20:07:51-03:00,f1f44b543c51,Paulaner,Casa Flora,19.9,39.8,True
+2026-11-25T20:07:51-03:00,18913fd3efdb,Paulaner,Casa Flora,19.9,39.8,True
+2026-11-25T20:07:51-03:00,802ede82e660,Paulaner,Casa Flora,19.9,39.8,True
+2026-11-25T20:07:51-03:00,d0c766bb08de,Pilsner Urquell,Nono Bier,61.8,41.2,True
+2026-11-25T20:07:51-03:00,89879adc6041,Paulaner,Nono Bier,20.95,41.9,True
+2026-11-25T20:07:51-03:00,d8ff213fe848,Paulaner,Nono Bier,20.95,41.9,True
+2026-11-25T20:07:51-03:00,6d12541a290f,Paulaner,Nono Bier,13.85,41.97,True
+2026-11-25T20:07:51-03:00,f91e72fba0ca,Bitburger,Nono Bier,21.5,43.0,True
+2026-11-25T20:07:51-03:00,b521a5b7e08a,Paulaner,Casa Flora,216.9,43.38,True
+2026-11-25T20:07:51-03:00,c688d582b1c5,Paulaner,Casa Flora,14.5,43.94,True
+2026-11-25T20:07:51-03:00,14a5ff06bc45,Pilsner Urquell,Nono Bier,23.0,46.0,True
+2026-11-25T20:07:51-03:00,f1e30afcd676,Bitburger,Costi Bebidas,23.5,47.0,True
+2026-11-25T20:07:51-03:00,dfa75e49f1e7,Paulaner,Família Scopel,23.8,47.6,True
+2026-11-25T20:07:51-03:00,c5a7b178903d,Paulaner,Casa Flora,23.9,47.8,True
+2026-11-25T20:07:51-03:00,6bbfe7644b97,Paulaner,Casa Flora,23.9,47.8,True
+2026-11-25T20:07:51-03:00,59cdf11ea326,Paulaner,Casa Flora,23.9,47.8,True
+2026-11-25T20:07:51-03:00,f790eb6007fc,Paulaner,Família Scopel,23.9,47.8,True
+2026-11-25T20:07:51-03:00,1b5340ec6d88,Bitburger,Costi Bebidas,23.9,47.8,True
+2026-11-25T20:07:51-03:00,b39e0d1f792c,Paulaner,Casa Santa Luzia,241.0,48.2,True
+2026-11-25T20:07:51-03:00,dbf9e56501aa,Pilsner Urquell,Casa Santa Luzia,24.7,49.4,True
+2026-11-25T20:07:51-03:00,e57cdca7a32b,Paulaner,Família Scopel,24.9,49.8,True
+2026-11-25T20:07:51-03:00,5a8e7ea7d4b2,Paulaner,Família Scopel,24.9,49.8,True
+2026-11-25T20:07:51-03:00,0092deda9841,Paulaner,Família Scopel,24.9,49.8,True
+2026-11-25T20:07:51-03:00,95b81754bc9f,Paulaner,Costi Bebidas,25.9,51.8,True
+2026-11-25T20:07:51-03:00,53f01f326a62,Bitburger,Piquiri Brewshop,25.99,51.98,True
+2026-11-25T20:07:51-03:00,687967a132fa,Paulaner,Costi Bebidas,29.9,59.8,True
+2026-11-25T20:07:51-03:00,6653198cad32,Paulaner,Costi Bebidas,29.9,59.8,True
+2026-11-25T20:07:51-03:00,ee4c1e2e2c61,Paulaner,Casa Santa Luzia,19.8,60.0,True
+2026-11-25T20:07:51-03:00,db441cac141b,Paulaner,Família Scopel,32.9,65.8,True
+2026-11-25T20:07:51-03:00,9e98f236feb7,Pilsner Urquell,Costi Bebidas,32.9,65.8,True
+2026-11-25T20:07:51-03:00,d53d7e50e4cf,Hofbräu,Costi Bebidas,34.5,69.0,True
+2026-11-25T20:07:51-03:00,496f14e46a5b,Paulaner,Costi Bebidas,34.9,69.8,True
+2026-11-25T20:07:51-03:00,4750042b8943,Paulaner,Costi Bebidas,34.9,69.8,True
+2026-11-25T20:07:51-03:00,6c17d421b9ea,Paulaner,Costi Bebidas,34.9,69.8,True
+2026-11-25T20:07:51-03:00,54b0df337b8a,Paulaner,Costi Bebidas,34.9,69.8,True
+2026-11-25T20:07:51-03:00,d233ec1cf3bc,Hofbräu,Costi Bebidas,34.9,69.8,True
+2026-11-25T20:07:51-03:00,012c748e7874,Hofbräu,Costi Bebidas,34.9,69.8,True
+2026-11-25T20:07:51-03:00,d37cc3f38c08,Schlenkerla,Costi Bebidas,35.8,71.6,True
+2026-11-25T20:07:51-03:00,fdb304ef34d0,Bitburger,Costi Bebidas,23.8,72.12,True
+2026-11-25T20:07:51-03:00,b9a33d033cc0,Pilsner Urquell,Costi Bebidas,38.9,77.8,True
+2026-11-25T20:07:51-03:00,1b488f60f29f,Paulaner,Clube do Malte,39.9,79.8,True
+2026-11-25T20:07:51-03:00,383e7a3f9d31,Hofbräu,Costi Bebidas,39.9,79.8,True
+2026-11-25T20:07:51-03:00,5e75e9fc574f,Hofbräu,Costi Bebidas,39.9,79.8,True
+2026-11-25T20:07:51-03:00,8350dcb7450b,Pilsner Urquell,Piquiri Brewshop,39.99,79.98,True
+2026-11-25T20:07:51-03:00,6035ed54b918,Schlenkerla,Costi Bebidas,42.5,85.0,True
+2026-11-25T20:07:51-03:00,67916c0f39bf,De Halve Maan,Nono Bier,28.95,87.73,True
+2026-11-25T20:07:51-03:00,9158ce0bab9b,De Halve Maan,Nono Bier,29.5,89.39,True
+2026-11-25T20:07:51-03:00,36151b71868a,Schlenkerla,Família Scopel,44.9,89.8,True
+2026-11-25T20:07:51-03:00,92a2bb4c86d5,Schlenkerla,Família Scopel,44.9,89.8,True
+2026-11-25T20:07:51-03:00,3d4eb1f45eea,Schlenkerla,Piquiri Brewshop,44.99,89.98,True
+2026-11-25T20:07:51-03:00,5d85eb1025f8,Pilsner Urquell,Costi Bebidas,29.9,90.61,True
+2026-11-25T20:07:51-03:00,a61ce522b8ef,De Halve Maan,Nono Bier,29.9,90.61,True
+2026-11-25T20:07:51-03:00,00d27ffea65f,Paulaner,Costi Bebidas,32.3,97.88,True
+2026-11-25T20:07:51-03:00,1255b9e703b2,Schlenkerla,Nono Bier,49.0,98.0,True
+2026-11-25T20:07:51-03:00,ff9e3a323b0a,Duvel,Nono Bier,32.5,98.48,True
+2026-11-25T20:07:51-03:00,d48969fe7e3b,Duvel,Nono Bier,32.5,98.48,True
+2026-11-25T20:07:51-03:00,b2d53f7fb461,Duvel,Costi Bebidas,32.6,98.79,True
+2026-11-25T20:07:51-03:00,597ff746a4d3,Duvel,Costi Bebidas,32.6,98.79,True
+2026-11-25T20:07:51-03:00,b479d56ebb60,Schlenkerla,Costi Bebidas,49.5,99.0,True
+2026-11-25T20:07:51-03:00,66580235b802,Schlenkerla,Família Scopel,49.9,99.8,True
+2026-11-25T20:07:51-03:00,3ca87c4aaa33,Schlenkerla,Costi Bebidas,49.9,99.8,True
+2026-11-25T20:07:51-03:00,315dee152c61,Schlenkerla,Piquiri Brewshop,49.99,99.98,True
+2026-11-25T20:07:51-03:00,1a34fe2e9ff0,Schlenkerla,Piquiri Brewshop,49.99,99.98,True
+2026-11-25T20:07:51-03:00,eb726656ff88,Schlenkerla,Piquiri Brewshop,49.99,99.98,True
+2026-11-25T20:07:51-03:00,2231a11f7c82,Schlenkerla,Casa Santa Luzia,50.0,100.0,True
+2026-11-25T20:07:51-03:00,657e8e563aab,Schlenkerla,Costi Bebidas,51.5,103.0,True
+2026-11-25T20:07:51-03:00,041d2097f422,Schlenkerla,Casa Santa Luzia,54.0,108.0,True
+2026-11-25T20:07:51-03:00,7cc655a8143a,Schlenkerla,Casa Santa Luzia,54.0,108.0,True
+2026-11-25T20:07:51-03:00,77070213cd2c,Duvel,Piquiri Brewshop,35.99,109.06,True
+2026-11-25T20:07:51-03:00,7a1baa6c37b6,La Trappe,Costi Bebidas,36.5,110.61,True
+2026-11-25T20:07:51-03:00,f6cafce4c5ee,De Halve Maan,Casa Santa Luzia,37.4,113.33,True
+2026-11-25T20:07:51-03:00,b79ed334566e,La Trappe,Nono Bier,85.0,113.33,True
+2026-11-25T20:07:51-03:00,1f32f11c38d3,De Halve Maan,Nono Bier,37.5,113.64,True
+2026-11-25T20:07:51-03:00,83d7424badd7,De Halve Maan,Nono Bier,37.5,113.64,True
+2026-11-25T20:07:51-03:00,c3dcbb6e79c4,Schlenkerla,Nono Bier,56.9,113.8,True
+2026-11-25T20:07:51-03:00,8f2517d91f98,Schlenkerla,Nono Bier,56.9,113.8,True
+2026-11-25T20:07:51-03:00,90e7d6601394,Schlenkerla,Nono Bier,56.9,113.8,True
+2026-11-25T20:07:51-03:00,6d51402da294,De Halve Maan,Nono Bier,38.75,117.42,True
+2026-11-25T20:07:51-03:00,d87ebaaf2e21,De Halve Maan,Nono Bier,89.0,118.67,True
+2026-11-25T20:07:51-03:00,aed105571bb6,Schlenkerla,Piquiri Brewshop,59.99,119.98,True
+2026-11-25T20:07:51-03:00,12c44aebd0bf,De Halve Maan,Casa Santa Luzia,40.0,121.21,True
+2026-11-25T20:07:51-03:00,5117dfbd4987,Schlenkerla,Nono Bier,127.0,127.0,True
+2026-11-25T20:07:51-03:00,98698671f58d,De Halve Maan,Casa Santa Luzia,96.0,128.0,True
+2026-11-25T20:07:51-03:00,51ee6206a9b1,De Halve Maan,Nono Bier,97.0,129.33,True
+2026-11-25T20:07:51-03:00,36062f760c90,Schlenkerla,Costi Bebidas,64.8,129.6,True
+2026-11-25T20:07:51-03:00,a3ee26cc5a37,Schlenkerla,Família Scopel,64.9,129.8,True
+2026-11-25T20:07:51-03:00,3a03bec9adb5,La Trappe,Costi Bebidas,43.0,130.3,True
+2026-11-25T20:07:51-03:00,191336ddfca0,La Trappe,Costi Bebidas,43.0,130.3,True
+2026-11-25T20:07:51-03:00,d95140bd24e0,La Trappe,Costi Bebidas,43.0,130.3,True
+2026-11-25T20:07:51-03:00,8d5f7cb1c2c0,De Halve Maan,Casa Santa Luzia,99.0,132.0,True
+2026-11-25T20:07:51-03:00,02eef4d95e16,La Trappe,Costi Bebidas,99.8,133.07,True
+2026-11-25T20:07:51-03:00,f73d9000eacf,De Halve Maan,Nono Bier,220.0,133.33,True
+2026-11-25T20:07:51-03:00,f322c2bef3ef,De Halve Maan,Nono Bier,220.0,133.33,True
+2026-11-25T20:07:51-03:00,7bbe61b095ee,Duvel,Costi Bebidas,44.9,136.06,True
+2026-11-25T20:07:51-03:00,095be98d1f3a,De Halve Maan,Casa Santa Luzia,46.0,139.39,True
+2026-11-25T20:07:51-03:00,db36815d1161,La Trappe,Costi Bebidas,104.6,139.47,True
+2026-11-25T20:07:51-03:00,472f19237823,Duvel,Costi Bebidas,46.8,141.82,True
+2026-11-25T20:07:51-03:00,d3c6c0f21233,La Trappe,Costi Bebidas,47.8,144.85,True
+2026-11-25T20:07:51-03:00,ccb6368ef5c9,De Halve Maan,Casa Santa Luzia,48.0,145.45,True
+2026-11-25T20:07:51-03:00,14eb775b87c0,Duvel,Nono Bier,48.0,145.45,True
+2026-11-25T20:07:51-03:00,a54d506a6286,De Halve Maan,Piquiri Brewshop,49.99,151.48,True
+2026-11-25T20:07:51-03:00,475eebcd7923,De Halve Maan,Piquiri Brewshop,49.99,151.48,True
+2026-11-25T20:07:51-03:00,23d9bd532d66,Schlenkerla,Nono Bier,76.0,152.0,True
+2026-11-25T20:07:51-03:00,b58a90d549ec,De Halve Maan,Casa Santa Luzia,115.0,153.33,True
+2026-11-25T20:07:51-03:00,9a55d0d54d8c,Pilsner Urquell,Costi Bebidas,77.8,155.6,True
+2026-11-25T20:07:51-03:00,5d4c6979eb68,Pilsner Urquell,Nono Bier,80.0,160.0,True
+2026-11-25T20:07:51-03:00,1138b09567ad,De Halve Maan,Nono Bier,120.0,160.0,True
+2026-11-25T20:07:51-03:00,761d549e45ce,La Trappe,Costi Bebidas,122.0,162.67,True
+2026-11-25T20:07:51-03:00,77c21c4ad332,La Trappe,Costi Bebidas,122.0,162.67,True
+2026-11-25T20:07:51-03:00,a723fc6bd49a,La Trappe,Costi Bebidas,122.0,162.67,True
+2026-11-25T20:07:51-03:00,c4dc34b8a826,Rochefort,Casa Santa Luzia,53.9,163.33,True
+2026-11-25T20:07:51-03:00,e24b7ebb1c2d,De Halve Maan,Casa Santa Luzia,130.0,173.33,True
+2026-11-25T20:07:51-03:00,7e0349b2ffda,Rochefort,Costi Bebidas,58.8,178.18,True
+2026-11-25T20:07:51-03:00,fa70234e3860,La Trappe,Costi Bebidas,134.0,178.67,True
+2026-11-25T20:07:51-03:00,ee7fd84a2762,Orval,Casa Santa Luzia,59.0,178.79,True
+2026-11-25T20:07:51-03:00,aff3a2a4c334,Rochefort,Nono Bier,59.0,178.79,True
+2026-11-25T20:07:51-03:00,3009322931e2,De Halve Maan,Piquiri Brewshop,59.99,181.79,True
+2026-11-25T20:07:51-03:00,d72869adaa47,De Halve Maan,Piquiri Brewshop,59.99,181.79,True
+2026-11-25T20:07:51-03:00,f38622b1d34a,La Trappe,Família Scopel,139.0,185.33,True
+2026-11-25T20:07:51-03:00,567ac951819a,De Halve Maan,Piquiri Brewshop,139.99,186.65,True
+2026-11-25T20:07:51-03:00,ee140e487e8c,Van Honsebrouck,Casa Santa Luzia,70.0,186.67,True
+2026-11-25T20:07:51-03:00,b05f286d921b,Rochefort,Costi Bebidas,61.8,187.27,True
+2026-11-25T20:07:51-03:00,ce47d37e0d57,Rochefort,Casa Santa Luzia,63.0,190.91,True
+2026-11-25T20:07:51-03:00,61f0523c4379,Orval,Nono Bier,65.0,196.97,True
+2026-11-25T20:07:51-03:00,e2637c1fdde7,La Trappe,Piquiri Brewshop,149.99,199.99,True
+2026-11-25T20:07:51-03:00,eee6b15a6c77,La Trappe,Piquiri Brewshop,149.99,199.99,True
+2026-11-25T20:07:51-03:00,08bf0364845c,Orval,Costi Bebidas,66.8,202.42,True
+2026-11-25T20:07:51-03:00,c10dbe411f24,Van Honsebrouck,Casa Santa Luzia,78.0,208.0,True
+2026-11-25T20:07:51-03:00,0d42b1f07fa1,Van Honsebrouck,Casa Santa Luzia,78.0,208.0,True
+2026-11-25T20:07:51-03:00,ce96c64f7d20,Rochefort,Nono Bier,69.95,211.97,True
+2026-11-25T20:07:51-03:00,f756c933a69a,De Halve Maan,Piquiri Brewshop,69.99,212.09,True
+2026-11-25T20:07:51-03:00,e4edaccdbfd5,De Halve Maan,Piquiri Brewshop,69.99,212.09,True
+2026-11-25T20:07:51-03:00,7159f814854b,La Trappe,Costi Bebidas,162.0,216.0,True
+2026-11-25T20:07:51-03:00,28858eca9ee8,Rochefort,Costi Bebidas,73.8,223.64,True
+2026-11-25T20:07:51-03:00,e98fc5e31ff3,Rochefort,Piquiri Brewshop,79.99,242.39,True
+2026-11-25T20:07:51-03:00,6267ba8932d9,La Trappe,Costi Bebidas,187.0,249.33,True
+2026-11-25T20:07:51-03:00,a1dc734f96a7,La Trappe,Costi Bebidas,187.5,250.0,True
+2026-11-25T20:07:51-03:00,35192d99aa00,La Trappe,Costi Bebidas,194.5,259.33,True
+2026-11-25T20:07:51-03:00,9c0bf0246b55,De Halve Maan,Nono Bier,87.0,263.64,True
+2026-11-25T20:07:51-03:00,9a25808f69b7,De Halve Maan,Nono Bier,199.0,265.33,True
+2026-11-25T20:07:51-03:00,81378d79a92c,La Trappe,Costi Bebidas,199.8,266.4,True
+2026-11-25T20:07:51-03:00,4befaf2e082d,Rochefort,Nono Bier,88.5,268.18,True
+2026-11-25T20:07:51-03:00,3b1f1f14e71e,Orval,Piquiri Brewshop,89.99,272.7,True
+2026-11-25T20:07:51-03:00,3e5acb31f5fb,La Trappe,Costi Bebidas,418.0,278.67,True
+2026-11-25T20:07:51-03:00,e2814589d9ed,Rochefort,Costi Bebidas,92.3,279.7,True
+2026-11-25T20:07:51-03:00,f34001fb0d61,Rochefort,Piquiri Brewshop,99.99,303.0,True
+2026-11-25T20:07:51-03:00,e197aee6dbc1,De Halve Maan,Casa Santa Luzia,229.0,305.33,True
+2026-11-25T20:07:51-03:00,76245ffccc61,Rochefort,Piquiri Brewshop,109.99,333.3,True
+2026-11-25T20:07:51-03:00,0fff0390cb4d,De Halve Maan,Nono Bier,262.0,349.33,True
+2026-11-25T20:07:51-03:00,8e616df94e54,De Halve Maan,Nono Bier,280.0,373.33,True
+2026-11-25T20:07:51-03:00,9befb322d4b7,De Halve Maan,Nono Bier,295.0,393.33,True
+2026-11-25T20:07:51-03:00,e210ac1895d1,De Halve Maan,Piquiri Brewshop,299.99,399.99,True
+2026-11-25T20:07:51-03:00,37af79a6bacf,De Halve Maan,Nono Bier,340.0,453.33,True
+2026-11-25T20:07:51-03:00,37de4fa17e1a,De Halve Maan,Nono Bier,350.0,466.67,True
+2026-11-25T20:07:51-03:00,9ad1600c30b1,De Halve Maan,Casa Santa Luzia,388.0,517.33,True
+2026-11-25T20:07:51-03:00,0a08ce54a189,De Halve Maan,Nono Bier,58.0,,True
+2026-11-25T20:07:51-03:00,9d3cf34a91cb,Paulaner,Casa Flora,59.9,,True
+2026-11-25T20:07:51-03:00,9c2ebcbf6d3b,Hofbräu,Clube do Malte,71.7,,True
+2026-11-25T20:07:51-03:00,9c3c05f98fdc,Hofbräu,Clube do Malte,71.7,,True
+2026-11-25T20:07:51-03:00,c5ff9485d78e,Orval,Nono Bier,138.1,,True
+2026-11-25T20:07:51-03:00,37103ae59625,De Halve Maan,Nono Bier,164.0,,True
+2026-11-25T20:07:51-03:00,b9285f077b6a,Bitburger,Casa Santa Luzia,22.0,44.0,False
+2026-11-25T20:07:51-03:00,b1c5157ff1a6,Hofbräu,Casa Santa Luzia,34.9,69.8,False
+2026-11-25T20:07:51-03:00,f7e1d16e52fd,De Halve Maan,Casa Santa Luzia,35.5,107.58,False
+2026-11-25T20:07:51-03:00,5103d11a71cc,La Trappe,Casa Santa Luzia,36.5,110.61,False
+2026-11-25T20:07:51-03:00,998bd423e82d,La Trappe,Casa Santa Luzia,99.0,132.0,False
+2026-11-25T20:07:51-03:00,c48b3d5ca2dc,La Trappe,Casa Santa Luzia,108.0,144.0,False

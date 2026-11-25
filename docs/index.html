@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Beer Store — Monitor de Preços</title>
+  <link rel="stylesheet" href="css/styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <div class="brand">
+        <h1>Beer Store</h1>
+        <span id="last-updated">Sincronizando...</span>
+      </div>
+      <div class="header-actions">
+        <button id="status-btn" class="icon-btn" type="button">
+          <span class="dot" id="health-dot"></span>
+          <span id="health-label">Lojas</span>
+        </button>
+        <button id="theme-toggle" class="icon-btn" type="button" title="Alternar tema">
+          Claro
+        </button>
+
+        <div id="status-popover" class="popover">
+          <div class="popover-title">Status das Lojas</div>
+          <div id="store-list"></div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <nav class="chapter-nav">
+    <div class="chapter-inner" id="brewery-nav">
+      <button class="pill active" data-brewery="">Todas</button>
+    </div>
+  </nav>
+
+  <main>
+    <section class="hero">
+      <div>
+        <h2 class="hero-title">Seleção de Rótulos. <span>Preços em tempo real.</span></h2>
+      </div>
+      <div class="hero-metrics tabular">
+        <div>
+          <div class="metric-label">Disponíveis</div>
+          <div class="metric-value" id="kpi-available">—</div>
+        </div>
+        <div>
+          <div class="metric-label">Menor R$/L</div>
+          <div class="metric-value" id="kpi-best-liter">—</div>
+        </div>
+        <div>
+          <div class="metric-label">Mínima Histórica</div>
+          <div class="metric-value" id="kpi-drops" style="color: var(--green);">—</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="controls">
+      <div class="controls-left">
+        <input id="filter-search" class="search-input" type="text" placeholder="Buscar rótulo ou estilo..." />
+        <select id="filter-store" class="select-input">
+          <option value="">Todas as lojas</option>
+        </select>
+      </div>
+      <div class="controls-right">
+        <label class="toggle-pill">
+          <input id="filter-available" type="checkbox" checked />
+          Apenas em estoque
+        </label>
+        <select id="sort-by" class="select-input">
+          <option value="ppl_asc">Ordenar: Menor R$/Litro</option>
+          <option value="price_asc">Ordenar: Menor Preço</option>
+          <option value="drop_first">Ordenar: Mínimas Históricas</option>
+          <option value="brewery_asc">Ordenar: Cervejaria (A–Z)</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="grid" id="cards-grid"></section>
+  </main>
+
+  <!-- Gaveta Lateral de Histórico -->
+  <div id="drawer-backdrop" class="drawer-backdrop"></div>
+  <aside id="history-drawer" class="drawer" aria-hidden="true">
+    <div>
+      <div class="drawer-header">
+        <div>
+          <div id="drawer-eyebrow" class="eyebrow"></div>
+          <h3 id="drawer-title" class="drawer-heading"></h3>
+        </div>
+        <button id="drawer-close" class="close-btn" aria-label="Fechar">&times;</button>
+      </div>
+
+      <div class="chart-box">
+        <canvas id="history-chart"></canvas>
+      </div>
+
+      <div class="stat-grid tabular">
+        <div>
+          <div class="metric-label">Preço Atual</div>
+          <div id="drawer-current" class="metric-value">—</div>
+        </div>
+        <div>
+          <div class="metric-label">Menor Já Registrado</div>
+          <div id="drawer-min" class="metric-value" style="color: var(--green);">—</div>
+        </div>
+      </div>
+    </div>
+
+    <a id="drawer-link" href="#" target="_blank" rel="noopener" class="btn-buy drawer-cta">
+      Ver produto na loja
+    </a>
+  </aside>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
