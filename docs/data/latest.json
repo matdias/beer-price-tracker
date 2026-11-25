@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T20:07:51-03:00",
-  "total_items": 190,
+  "generated_at": "2026-11-25T20:53:17-03:00",
+  "total_items": 192,
   "items": [
     {
       "id": "1d780fcd2451",
@@ -16,7 +16,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_alem_hacker_pschorr_kellerbier_500ml_1_20251118153840_32d45f0baff9.jpg",
       "historical_min": 11.95,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "75f5f71b8fd0",
@@ -32,7 +32,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_alem_hacker_pschorr_munchner_gold_500ml_1_20251118154643_d4f62cd1a1c3.jpg",
       "historical_min": 12.5,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "5c6a130d035a",
@@ -48,7 +48,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_alem_bitburger_premium_pils_alkoholfrei_33_1_20261122204602_c88eaf2b0fb9.jpg",
       "historical_min": 8.7,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "6e7471b323dc",
@@ -64,7 +64,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_alem_hacker_pschoor_weissbier_500ml_1_20251118153153_b0af72c6b6bc.jpg",
       "historical_min": 13.95,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "d6e89fdbddf4",
@@ -80,7 +80,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710207_569a7486-f35a-475b-a07e-b55165a2abf5.png?v=1795642878",
       "historical_min": 15.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "5c9f21b8b389",
@@ -96,7 +96,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710203_c33e42be-b467-4ac1-951f-dc72a064b84d.png?v=1795642874",
       "historical_min": 15.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "c29000a04276",
@@ -112,7 +112,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/981552/3041808.jpg?v=637895097688600000",
       "historical_min": 11.4,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "e6ff38413326",
@@ -128,7 +128,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/973659/3057917.jpg?v=637492527899700000",
       "historical_min": 16.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "3034d5726231",
@@ -144,7 +144,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/973658/3057860.jpg?v=637492527834070000",
       "historical_min": 16.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "562ce8cc9582",
@@ -160,7 +160,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/966243/868035.jpg?v=637385096415030000",
       "historical_min": 16.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "092a422d8d1c",
@@ -176,7 +176,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/1007451/3257096.png?v=639172932571700000",
       "historical_min": 16.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "8a230945ef96",
@@ -192,7 +192,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/1002261/3257126.png?v=638913123066300000",
       "historical_min": 16.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "8fe72ed8fe81",
@@ -208,7 +208,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/1007452/586579 -14-.png?v=639173007845670000",
       "historical_min": 16.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "f2a0a05614f7",
@@ -224,7 +224,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_alem_bitburger_premium_pils_500ml_1_20260703181008_17ba724f75f9.jpg",
       "historical_min": 17.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "465629787f72",
@@ -240,7 +240,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/983612/3121305.jpg?v=637969702219570000",
       "historical_min": 17.4,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "f2105df747ab",
@@ -256,7 +256,7 @@
       "image": "https://cdn.dooca.store/141579/products/ba5oguedgdfri6sjnvppzack5wqzcjad2l03_495x495+fill_ffffff+crop_center.jpg?v=1731431130",
       "historical_min": 19.8,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "fbf0f5ecb3a2",
@@ -272,7 +272,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/980866/889334.jpg?v=637866791931770000",
       "historical_min": 18.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "444d6db8f1e0",
@@ -288,7 +288,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/993689/702030.jpg?v=638328042683330000",
       "historical_min": 19.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "fc16b343da54",
@@ -304,7 +304,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/964963/702048.jpg?v=639112877013000000",
       "historical_min": 19.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "573ce6b04f05",
@@ -320,7 +320,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/966447/1109774.jpg?v=637385122512330000",
       "historical_min": 19.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "7516cad18974",
@@ -336,7 +336,7 @@
       "image": "https://cdn.dooca.store/141579/products/kxbehr9dvufazbacgatsmhua8ns89oyidfzk_495x495+fill_ffffff+crop_center.jpg?v=1712594668",
       "historical_min": 194.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "e4affb34ac33",
@@ -352,7 +352,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_alem_paulaner_lemon_radler_500ml_1_20260805163835_8630b6ca1680.jpg",
       "historical_min": 19.7,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "a0c81549e2a0",
@@ -368,7 +368,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_alem_paulaner_weissbier_5000ml_barril_5_li_1_20261114124931_d5c08788a3b9.jpg",
       "historical_min": 197.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "f1f44b543c51",
@@ -384,7 +384,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710210_2d3380c1-1a03-475b-a4bd-a119d10968ee.png?v=1795642883",
       "historical_min": 19.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "18913fd3efdb",
@@ -400,7 +400,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710215_CERVEJA_20ALE_20PAULANER_20WEISSBIER_20LT_500ml.png?v=1795647138",
       "historical_min": 19.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "802ede82e660",
@@ -416,7 +416,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710052_CERVEJA_20PAULANER_20MUNC_20HELL_20LT_500ml.png?v=1795647342",
       "historical_min": 19.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "d0c766bb08de",
@@ -432,7 +432,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_pilsner_urquell_500ml_lata_pack_3_und_62965_1_a9cdad2ab1a6e79911395a3f7b85e933.jpg",
       "historical_min": 61.8,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "89879adc6041",
@@ -448,7 +448,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_alem_paulaner_pils_500ml_1_20260805164853_d0179898553f.jpg",
       "historical_min": 20.95,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "d8ff213fe848",
@@ -464,7 +464,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_alema_paulaner_weissbier_500ml_lata_64087_1_9d48bf1acf7c958658082dfc4dcb4d92.jpg",
       "historical_min": 20.95,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "6d12541a290f",
@@ -480,7 +480,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_alem_paulaner_munchner_hell_330ml_1_20260805155230_1819003e216a.jpg",
       "historical_min": 13.85,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "f91e72fba0ca",
@@ -496,7 +496,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_alema_bitburger_radler_naturtrub_500ml_64109_1_cee861fa0b350280a7101bc2d066fcff.jpg",
       "historical_min": 21.5,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "b521a5b7e08a",
@@ -512,7 +512,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710027.png?v=1795646835",
       "historical_min": 216.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "c688d582b1c5",
@@ -528,7 +528,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710209.png?v=1795642525",
       "historical_min": 14.5,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "14a5ff06bc45",
@@ -544,7 +544,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_pilsner_urquell_500ml_lata_62963_1_d9d3307f511c1e29ec078a2deea9b0bc.jpg",
       "historical_min": 23.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "f1e30afcd676",
@@ -560,7 +560,7 @@
       "image": "https://cdn.dooca.store/141579/products/cerveja-bitburger-premium-pils-blcxw_495x495+fill_ffffff+crop_center.jpg?v=1780079435",
       "historical_min": 23.5,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "dfa75e49f1e7",
@@ -576,7 +576,7 @@
       "image": "https://cdn.awsli.com.br/300x300/1305/1305297/produto/403883558/7c6028d81b02b3c35f113c22ecb438de-rd50qe72ea.jpg",
       "historical_min": 23.8,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "c5a7b178903d",
@@ -592,7 +592,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710021.png?v=1795646948",
       "historical_min": 23.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "6bbfe7644b97",
@@ -608,7 +608,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710020_CERVEJA_20ALE_20PAULANER_20MUNCHNER_20HELL_500ml.png?v=1795642984",
       "historical_min": 23.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "59cdf11ea326",
@@ -624,7 +624,23 @@
       "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710030.png?v=1795646953",
       "historical_min": 23.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
+    },
+    {
+      "id": "decbe42bc88f",
+      "brewery": "Paulaner",
+      "store": "Casa Flora",
+      "title": "Cerveja Alemã Paulaner Weissibier Dunkel Garrafa 500ml",
+      "price": 23.9,
+      "volume_ml": 500,
+      "quantity": 1,
+      "price_per_liter": 47.8,
+      "available": true,
+      "url": "https://www.casaflora.com.br/products/cerveja-alema-paulaner-weissibier-dunkel-garrafa-500ml",
+      "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710022.png?v=1795642869",
+      "historical_min": 23.9,
+      "is_price_drop": false,
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "f790eb6007fc",
@@ -640,7 +656,7 @@
       "image": "https://cdn.awsli.com.br/300x300/1305/1305297/produto/403883560/f4d56bb01384dce0dc8bdaea8ad642ac-62fvg1cf2x.jpg",
       "historical_min": 23.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "1b5340ec6d88",
@@ -656,7 +672,7 @@
       "image": "https://cdn.dooca.store/141579/products/lkizmws6avpzasjtbw1xhiiqdbpax67an7kj_495x495+fill_ffffff+crop_center.jpg?v=1741788994",
       "historical_min": 23.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "b39e0d1f792c",
@@ -672,7 +688,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/972393/956473.jpg?v=637385555573830000",
       "historical_min": 241.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "dbf9e56501aa",
@@ -688,7 +704,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/991070/3168280.jpg?v=638305379764230000",
       "historical_min": 24.7,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "e57cdca7a32b",
@@ -704,7 +720,7 @@
       "image": "https://cdn.awsli.com.br/300x300/1305/1305297/produto/403883559/7ae521dba41c6b1d308b2ae8b65c5917-431cy6506a.jpg",
       "historical_min": 24.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "5a8e7ea7d4b2",
@@ -720,7 +736,7 @@
       "image": "https://cdn.awsli.com.br/300x300/1305/1305297/produto/254468398c7a01b3bb8.jpg",
       "historical_min": 24.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "0092deda9841",
@@ -736,7 +752,7 @@
       "image": "https://cdn.awsli.com.br/300x300/1305/1305297/produto/254468393eff8f051aa.jpg",
       "historical_min": 24.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "95b81754bc9f",
@@ -752,7 +768,7 @@
       "image": "https://cdn.dooca.store/141579/products/s5uat9dfxrdmba6y4ldisnlkelyplx4taroq_495x495+fill_ffffff+crop_center.jpg?v=1712593041",
       "historical_min": 25.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "53f01f326a62",
@@ -768,7 +784,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/351746100/bitburger_-_lata_500ml-ymtu2q1ej0.jpg",
       "historical_min": 25.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "687967a132fa",
@@ -784,7 +800,7 @@
       "image": "https://cdn.dooca.store/141579/products/rjkoku9rhdqr5yhs6kjsw9vkofidbiw8x8we_495x495+fill_ffffff+crop_center.jpg?v=1712593047",
       "historical_min": 29.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "6653198cad32",
@@ -800,7 +816,7 @@
       "image": "https://cdn.dooca.store/141579/products/ogmrbhgzpxbnv7eq4isonwfyqia0lhexbax4_495x495+fill_ffffff+crop_center.jpg?v=1712587389",
       "historical_min": 29.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "ee4c1e2e2c61",
@@ -816,7 +832,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/969567/772860.jpg?v=638924093293400000",
       "historical_min": 19.8,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "db441cac141b",
@@ -832,7 +848,7 @@
       "image": "https://cdn.awsli.com.br/300x300/1305/1305297/produto/317734680/f23e06ddfb8402b475b8b785641ed109-chnwky7nou.jpg",
       "historical_min": 32.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "9e98f236feb7",
@@ -848,7 +864,7 @@
       "image": "https://cdn.dooca.store/141579/products/sqtpmtpkcr8hmgtytvuk4mu9bugit2qhh9uj_495x495+fill_ffffff+crop_center.jpg?v=1712587401",
       "historical_min": 32.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "d53d7e50e4cf",
@@ -864,7 +880,7 @@
       "image": "https://cdn.dooca.store/141579/products/2magvhobjcwpm9yyqtmuh1t8qqs0nfdqzxzx_495x495+fill_ffffff+crop_center.jpg?v=1712587751",
       "historical_min": 34.5,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "496f14e46a5b",
@@ -880,7 +896,7 @@
       "image": "https://cdn.dooca.store/141579/products/cerveja-sem-alcool-paulaner_495x495+fill_ffffff+crop_center.jpg?v=1770200333",
       "historical_min": 34.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "4750042b8943",
@@ -896,7 +912,7 @@
       "image": "https://cdn.dooca.store/141579/products/kd1gheu4tfwtzd6cuawcgw8w89kvlgsrtu5u_495x495+fill_ffffff+crop_center.jpg?v=1721655848",
       "historical_min": 34.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "6c17d421b9ea",
@@ -912,7 +928,7 @@
       "image": "https://cdn.dooca.store/141579/products/nedlxnwyrtfeg5sdmnerjsjdgnl6myoalzgr_495x495+fill_ffffff+crop_center.jpg?v=1712587384",
       "historical_min": 34.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "54b0df337b8a",
@@ -928,7 +944,7 @@
       "image": "https://cdn.dooca.store/141579/products/snwtqapbcmmlpekrsfkgjuboa09k8g89wzin_495x495+fill_ffffff+crop_center.jpg?v=1712587369",
       "historical_min": 34.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "d233ec1cf3bc",
@@ -944,7 +960,7 @@
       "image": "https://cdn.dooca.store/141579/products/cerveja-hofbrau-lager-u4kwi_495x495+fill_ffffff+crop_center.jpg?v=1785878247",
       "historical_min": 34.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "012c748e7874",
@@ -960,7 +976,7 @@
       "image": "https://cdn.dooca.store/141579/products/cerveja-hofbrau-weisse-9lfjy_495x495+fill_ffffff+crop_center.jpg?v=1785878277",
       "historical_min": 34.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "d37cc3f38c08",
@@ -976,7 +992,7 @@
       "image": "https://cdn.dooca.store/141579/products/pio0uaae4kt9cl11pc7fxzxlxzqjuahhosuu_495x495+fill_ffffff+crop_center.jpg?v=1731409804",
       "historical_min": 35.8,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "fdb304ef34d0",
@@ -992,7 +1008,7 @@
       "image": "https://cdn.dooca.store/141579/products/oixvc4sxzefbfs0bipzzfjmmbnnrx687qlga_495x495+fill_ffffff+crop_center.jpg?v=1741789679",
       "historical_min": 23.8,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "b9a33d033cc0",
@@ -1008,7 +1024,7 @@
       "image": "https://cdn.dooca.store/141579/products/j8oc9rkrcjqsbdqkumsc6pyi4jcxbdip6shm_495x495+fill_ffffff+crop_center.jpg?v=1737556729",
       "historical_min": 38.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "1b488f60f29f",
@@ -1024,7 +1040,7 @@
       "image": "https://clubedomalte.fbitsstatic.net/img/p/cerveja-paulaner-pils-lata-500ml-97216/264614-1.jpg?w=275&h=275&v=202611061154",
       "historical_min": 39.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "383e7a3f9d31",
@@ -1040,7 +1056,7 @@
       "image": "https://cdn.dooca.store/141579/products/gfon2m4dmo7t0a81c73rpfn8mzkg728zxcft_495x495+fill_ffffff+crop_center.jpg?v=1772637815",
       "historical_min": 39.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "5e75e9fc574f",
@@ -1056,7 +1072,7 @@
       "image": "https://cdn.dooca.store/141579/products/vnefqwf5elssbbt1rvkmjc3fgqiypgvy6vsl_495x495+fill_ffffff+crop_center.jpg?v=1757514694",
       "historical_min": 39.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "8350dcb7450b",
@@ -1072,7 +1088,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/306058537/dba235b4659847abe23402128a5950f9-n0d5ibiriw.jpg",
       "historical_min": 39.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "6035ed54b918",
@@ -1088,7 +1104,7 @@
       "image": "https://cdn.dooca.store/141579/products/itcdwaw0p3icbhrkf2p2fkngasukeef6rp8c_495x495+fill_ffffff+crop_center.jpg?v=1731409923",
       "historical_min": 42.5,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "67916c0f39bf",
@@ -1104,7 +1120,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_belga_brugse_zot_blond_330ml_1_20250801143017_c2689fa8d128.jpg",
       "historical_min": 28.95,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "9158ce0bab9b",
@@ -1120,7 +1136,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_belga_brugse_zot_dubbel_330ml_2_20250801143106_14441d455d76.jpg",
       "historical_min": 29.5,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "36151b71868a",
@@ -1136,7 +1152,7 @@
       "image": "https://cdn.awsli.com.br/300x300/1305/1305297/produto/335578438/9e9da54523a9d67172b9796e96490edb-gma3rg1g12.jpg",
       "historical_min": 44.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "92a2bb4c86d5",
@@ -1152,7 +1168,7 @@
       "image": "https://cdn.awsli.com.br/300x300/1305/1305297/produto/334362133/3272d726ea471c08ed4bcdc77cf90277-mgdwu30p2k.jpg",
       "historical_min": 44.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "3d4eb1f45eea",
@@ -1168,7 +1184,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/333115309/05ddc5d7e9e7ea5ec738025f9f83dee7-9grwi6ctg5.jpeg",
       "historical_min": 44.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "5d85eb1025f8",
@@ -1184,7 +1200,7 @@
       "image": "https://cdn.dooca.store/141579/products/rfbtulc79ezqik0fh1b10wc4nmqojc4jmia8_495x495+fill_ffffff+crop_center.jpg?v=1742558629",
       "historical_min": 29.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "a61ce522b8ef",
@@ -1200,7 +1216,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_belga_brugse_zot_bok_330ml_1_20250801143036_996a78ee7779.jpg",
       "historical_min": 29.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "00d27ffea65f",
@@ -1216,7 +1232,7 @@
       "image": "https://cdn.dooca.store/141579/products/rt3kb0kxgcf0iyot78m7hnzzoigoxtibcsxg_495x495+fill_ffffff+crop_center.jpg?v=1733239194",
       "historical_min": 32.3,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "1255b9e703b2",
@@ -1232,7 +1248,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_alema_aecht_schlenkerla_helles_lager_500ml_60870_1_1b9f22a660ec032adf538af5ecae3ef2.jpg",
       "historical_min": 49.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "ff9e3a323b0a",
@@ -1248,7 +1264,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_belga_duvel_330ml_37535_1_0ac851de95bcfef4d6bb938a51b26a76.jpg",
       "historical_min": 32.5,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "d48969fe7e3b",
@@ -1264,7 +1280,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_duvel_6_66_330ml_62401_1_fc5b59901d9435769146505d314d8895.jpg",
       "historical_min": 32.5,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "b2d53f7fb461",
@@ -1280,7 +1296,7 @@
       "image": "https://cdn.dooca.store/141579/products/9qrhtwkvdg64uylwluamkfgh1p5nbewfrthe_495x495+fill_ffffff+crop_center.jpg?v=1712588334",
       "historical_min": 32.6,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "597ff746a4d3",
@@ -1296,7 +1312,7 @@
       "image": "https://cdn.dooca.store/141579/products/jdl531qfiktt52llwdhloaprkoqckkv9408w_495x495+fill_ffffff+crop_center.jpg?v=1723830281",
       "historical_min": 32.6,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "b479d56ebb60",
@@ -1312,7 +1328,7 @@
       "image": "https://cdn.dooca.store/141579/products/aiuyyhm9jxvh4odafhwcf5jpnxmc5o6brqqj_495x495+fill_ffffff+crop_center.jpg?v=1731410264",
       "historical_min": 49.5,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "66580235b802",
@@ -1328,7 +1344,7 @@
       "image": "https://cdn.awsli.com.br/300x300/1305/1305297/produto/392645316/4fe0a86e51328d13ef2d5895737caff0-wgerilnnjv.jpg",
       "historical_min": 49.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "3ca87c4aaa33",
@@ -1344,7 +1360,7 @@
       "image": "https://cdn.dooca.store/141579/products/cerveja-schlenkerla-weichsel-rotbier_495x495+fill_ffffff+crop_center.jpg?v=1764276245",
       "historical_min": 49.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "315dee152c61",
@@ -1360,7 +1376,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/399636082/ab4d18d6995f220f571f02b5234d3533-0b6j2gc27w.png",
       "historical_min": 49.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "1a34fe2e9ff0",
@@ -1376,7 +1392,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/333115311/a275c230e83207c86cf13bc3fa028032-rc13an7vul.jpg",
       "historical_min": 49.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "eb726656ff88",
@@ -1392,7 +1408,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/333115310/d61cff2c54b823d873d033973a59edcb-9vmapr4l7j.jpeg",
       "historical_min": 49.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "2231a11f7c82",
@@ -1408,7 +1424,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/970183/1285386.jpg?v=637385383869230000",
       "historical_min": 50.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "657e8e563aab",
@@ -1424,7 +1440,7 @@
       "image": "https://cdn.dooca.store/141579/products/enfnobuuvuthsl74onmsejspehm9ybwvfbr9_495x495+fill_ffffff+crop_center.jpg?v=1731410144",
       "historical_min": 51.5,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "041d2097f422",
@@ -1440,7 +1456,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/970767/864480.jpg?v=637385429636970000",
       "historical_min": 54.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "7cc655a8143a",
@@ -1456,7 +1472,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/963980/983497.jpg?v=637384912770730000",
       "historical_min": 54.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "77070213cd2c",
@@ -1472,7 +1488,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/354176758/c41f480a59d0f508c1aa2b2aa32c1a8e-6il99vsg2m.webp",
       "historical_min": 35.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "7a1baa6c37b6",
@@ -1488,7 +1504,7 @@
       "image": "https://cdn.dooca.store/141579/products/y9ycngdploxhvht6xs1uizhjbptydb5rkate_495x495+fill_ffffff+crop_center.jpg?v=1712587839",
       "historical_min": 36.5,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "f6cafce4c5ee",
@@ -1504,7 +1520,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/963723/1178466.jpg?v=637384893190800000",
       "historical_min": 37.4,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "b79ed334566e",
@@ -1520,7 +1536,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_la_trappe_blond_750ml_43048_1_2d4cdd3ddba8f100e40b7b5a88b0d050.jpg",
       "historical_min": 85.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "1f32f11c38d3",
@@ -1536,7 +1552,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_straffe_hendrik_quadrupel_330ml_62484_1_657004ba879c924e6274746c3be73b8a.jpg",
       "historical_min": 37.5,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "83d7424badd7",
@@ -1552,7 +1568,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_straffe_hendrik_tripel_330ml_62483_1_3c90aeb4a5392ac3db33b32d5f5b073e.jpg",
       "historical_min": 37.5,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "c3dcbb6e79c4",
@@ -1568,7 +1584,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_alem_aecht_schlenkerla_weichsel_rotbier_50_1_20251124113203_c832585a3b11.jpg",
       "historical_min": 56.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "8f2517d91f98",
@@ -1584,7 +1600,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_aecht_schlenkerla_rauchbier_weizen_500ml_57061_1_f1242744e6c16e66a3a5b4a51c260c09.jpg",
       "historical_min": 56.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "90e7d6601394",
@@ -1600,7 +1616,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_aecht_schlenkerla_rauchbier_marzen_500ml_48221_1_10eecea854e614b1a3f969aba52af0d2.jpg",
       "historical_min": 56.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "6d51402da294",
@@ -1616,7 +1632,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_belga_straffe_hendrik_wild_2023_330ml_64253_1_ed2f23547ef29591b6d4d4fbfbaa9af6.jpg",
       "historical_min": 38.75,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "d87ebaaf2e21",
@@ -1632,7 +1648,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_straffe_hendrik_tripel_750ml_62977_1_20d8504d70862d0fcb0a70adaff82348.jpg",
       "historical_min": 89.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "aed105571bb6",
@@ -1648,7 +1664,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/349578671/44cbb635f9778c624bd676b53f64dcdb-lo5p62rtkh.webp",
       "historical_min": 59.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "12c44aebd0bf",
@@ -1664,7 +1680,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/985331/3123847.jpg?v=638037066434630000",
       "historical_min": 40.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "5117dfbd4987",
@@ -1680,7 +1696,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_alema_aecht_schlenkerla_rauchbier_marzen_500ml_kit_1_1_64111_1_bddea7716c23f51fde3d2f2f1825b552.jpg",
       "historical_min": 127.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "98698671f58d",
@@ -1696,7 +1712,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/989637/3160882.jpg?v=638261458948730000",
       "historical_min": 96.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "51ee6206a9b1",
@@ -1712,7 +1728,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_straffe_hendrik_quadrupel_750ml_62485_1_d25c6d1173dfaae68a8f5bc203dc6400.jpg",
       "historical_min": 97.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "36062f760c90",
@@ -1728,7 +1744,7 @@
       "image": "https://cdn.dooca.store/141579/products/br4b82wvvfhoiky8wioi4z18dxxuqibt5j14_495x495+fill_ffffff+crop_center.jpg?v=1731409668",
       "historical_min": 64.8,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "a3ee26cc5a37",
@@ -1744,7 +1760,7 @@
       "image": "https://cdn.awsli.com.br/300x300/1305/1305297/produto/392645325/3d81fa534b1515ba44c62979c24f2e96-0puqo5sfbv.jpg",
       "historical_min": 64.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "3a03bec9adb5",
@@ -1760,7 +1776,7 @@
       "image": "https://cdn.dooca.store/141579/products/gp0ju7lwz5qnynj7dumelv7trxvodjfutsym_495x495+fill_ffffff+crop_center.jpg?v=1712587973",
       "historical_min": 43.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "191336ddfca0",
@@ -1776,7 +1792,7 @@
       "image": "https://cdn.dooca.store/141579/products/zsbb19vthy7n3woqudibqmd1rgegb3z66ebx_495x495+fill_ffffff+crop_center.jpg?v=1712587960",
       "historical_min": 43.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "d95140bd24e0",
@@ -1792,7 +1808,7 @@
       "image": "https://cdn.dooca.store/141579/products/x3jdsdu7hkxuxpsgcytd2kn7wqeljfluu1fb_495x495+fill_ffffff+crop_center.jpg?v=1712587827",
       "historical_min": 43.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "8d5f7cb1c2c0",
@@ -1808,7 +1824,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/989638/3160866.jpg?v=638261459765030000",
       "historical_min": 99.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "02eef4d95e16",
@@ -1824,7 +1840,7 @@
       "image": "https://cdn.dooca.store/141579/products/etfu4ac0o8zauz338wvuxdiszwekiebiifef_495x495+fill_ffffff+crop_center.jpg?v=1712587970",
       "historical_min": 99.8,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "f73d9000eacf",
@@ -1840,7 +1856,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_belga_brugse_zot_41_330ml_kit_1_20250801141921_3c0cfe339822.jpg",
       "historical_min": 220.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "f322c2bef3ef",
@@ -1856,7 +1872,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_belga_straffe_hendrik_4_1_330_ml_kit_63909_1_260c20e26e4f79df29f68e62eaf7bc57.jpg",
       "historical_min": 220.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "7bbe61b095ee",
@@ -1872,7 +1888,7 @@
       "image": "https://cdn.dooca.store/141579/products/p6km3yncfh0g3dnizdksy94kqqdukonjaezz_495x495+fill_ffffff+crop_center.jpg?v=1712588341",
       "historical_min": 44.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "095be98d1f3a",
@@ -1888,7 +1904,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/976667/3044572.jpg?v=637662114394670000",
       "historical_min": 46.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "db36815d1161",
@@ -1904,7 +1920,7 @@
       "image": "https://cdn.dooca.store/141579/products/lnylkr94jhfdk7nie0e37w5ackcoikmhp1vk_495x495+fill_ffffff+crop_center.jpg?v=1712587842",
       "historical_min": 104.6,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "472f19237823",
@@ -1920,7 +1936,7 @@
       "image": "https://cdn.dooca.store/141579/products/jtljkhjvtts4tmevgfriadufhgxmuwdnfpwx_495x495+fill_ffffff+crop_center.jpg?v=1723830573",
       "historical_min": 46.8,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "d3c6c0f21233",
@@ -1936,7 +1952,7 @@
       "image": "https://cdn.dooca.store/141579/products/idpds4gdzdosgqcsmzwdl5yjaq96sbdeobbz_495x495+fill_ffffff+crop_center.jpg?v=1712587812",
       "historical_min": 47.8,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "ccb6368ef5c9",
@@ -1952,7 +1968,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/975012/3015718.jpg?v=637565978197430000",
       "historical_min": 48.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "14eb775b87c0",
@@ -1968,7 +1984,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_belga_duvel_tripel_hop_citra_330ml_1_20251029091617_60c3bb6d1a26.jpg",
       "historical_min": 48.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "a54d506a6286",
@@ -1984,7 +2000,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/361932039/34b73a54cbc54266301b39f63474c1dc-4lr7e68vue.png",
       "historical_min": 49.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "475eebcd7923",
@@ -2000,7 +2016,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/337855599/4ba6fe23f9625b859ec7848a2f6137c7-la8evyyrp1.webp",
       "historical_min": 49.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "23d9bd532d66",
@@ -2016,7 +2032,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_aecht_schlenkerla_eiche_500ml_61124_1_10f3a0e6dfd23d6a44a7e78556e90f3c.jpg",
       "historical_min": 76.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "b58a90d549ec",
@@ -2032,7 +2048,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/989648/3160823.jpg?v=638261464348770000",
       "historical_min": 115.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "9a55d0d54d8c",
@@ -2048,7 +2064,7 @@
       "image": "https://cdn.dooca.store/141579/products/urquell-tdchf_495x495+fill_ffffff+crop_center.jpg?v=1786134846",
       "historical_min": 77.8,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "5d4c6979eb68",
@@ -2064,7 +2080,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_tcheca_pilsner_urquell_500ml_kit_1_20260324154008_04bf39e90188.jpg",
       "historical_min": 80.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "1138b09567ad",
@@ -2080,7 +2096,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_belga_straffe_hendrik_wild_2025_750ml_1_20260921143453_56ff2c2581fd.jpg",
       "historical_min": 120.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "761d549e45ce",
@@ -2096,7 +2112,7 @@
       "image": "https://cdn.dooca.store/141579/products/mtwkojmrthdzz5i95dug4ovfiw1cgiqnyzek_495x495+fill_ffffff+crop_center.jpg?v=1764791512",
       "historical_min": 122.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "77c21c4ad332",
@@ -2112,7 +2128,7 @@
       "image": "https://cdn.dooca.store/141579/products/q7yseablhihrbqczwlb9ool4tpd4hrpmcvey_495x495+fill_ffffff+crop_center.jpg?v=1764791700",
       "historical_min": 122.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "a723fc6bd49a",
@@ -2128,7 +2144,7 @@
       "image": "https://cdn.dooca.store/141579/products/giwszlyr3d2ylmoay0p8cqjggicue0uodjdt_495x495+fill_ffffff+crop_center.jpg?v=1764792007",
       "historical_min": 122.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "c4dc34b8a826",
@@ -2144,7 +2160,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/1002433/3243907.png?v=638923315830400000",
       "historical_min": 53.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "e24b7ebb1c2d",
@@ -2160,7 +2176,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/989647/3160874.jpg?v=638261463702200000",
       "historical_min": 130.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "7e0349b2ffda",
@@ -2176,7 +2192,7 @@
       "image": "https://cdn.dooca.store/141579/products/inb1e6zzdeyndouovf9us0f7aghxwphjol6t_495x495+fill_ffffff+crop_center.jpg?v=1743434823",
       "historical_min": 58.8,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "fa70234e3860",
@@ -2192,7 +2208,7 @@
       "image": "https://cdn.dooca.store/141579/products/8tcrkp6cdrchvhqk3sskk5shmr1xrt6zrfpd_495x495+fill_ffffff+crop_center.jpg?v=1712587816",
       "historical_min": 134.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "ee7fd84a2762",
@@ -2208,7 +2224,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/968858/1001906.jpg?v=637385284143730000",
       "historical_min": 59.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "aff3a2a4c334",
@@ -2224,7 +2240,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_rochefort_6_330_ml_44862_1_02cfb03f32942c1ac3148e830ab22816.jpg",
       "historical_min": 59.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "3009322931e2",
@@ -2240,7 +2256,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/361931486/46dd8bf65de3576a74f4cef60c5a420d-vuiehvbmus.png",
       "historical_min": 59.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "d72869adaa47",
@@ -2256,7 +2272,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/337855565/d2185fef1d1d2fb3e4f84bd9505ed410-49d5qxui2e.webp",
       "historical_min": 59.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "f38622b1d34a",
@@ -2272,7 +2288,7 @@
       "image": "https://cdn.awsli.com.br/300x300/1305/1305297/produto/226393191b408baa4a6.jpg",
       "historical_min": 139.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "567ac951819a",
@@ -2288,7 +2304,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/402466063/b8c830edc64c37f9f58f3a88687ede35-ekx41tqqeh.jpeg",
       "historical_min": 139.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "ee140e487e8c",
@@ -2304,7 +2320,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/988300/3154491.jpg?v=638201313216770000",
       "historical_min": 70.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "b05f286d921b",
@@ -2320,7 +2336,7 @@
       "image": "https://cdn.dooca.store/141579/products/a0rawqivsu6l3tp1rxs8iyswgwnfzvqqoagt_495x495+fill_ffffff+crop_center.jpg?v=1743434635",
       "historical_min": 61.8,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "ce47d37e0d57",
@@ -2336,7 +2352,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/1005476/3243893.png?v=639045168965070000",
       "historical_min": 63.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "61f0523c4379",
@@ -2352,7 +2368,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_belga_orval_330_ml_54131_1_adbdb61c7ab38f3b42fddd64668ec90d.jpg",
       "historical_min": 65.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "e2637c1fdde7",
@@ -2368,7 +2384,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/402470738/800a0ea23f39113b24ae78ef70e0105d-psk0wgvr53.jpeg",
       "historical_min": 149.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "eee6b15a6c77",
@@ -2384,7 +2400,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/402470725/80806256a82f1d0ab2d45c36fed762db-6nwmfg3m4e.jpeg",
       "historical_min": 149.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "08bf0364845c",
@@ -2400,7 +2416,7 @@
       "image": "https://cdn.dooca.store/141579/products/catj28ennbx3wogj21bixidw3uzdwfifosgw_495x495+fill_ffffff+crop_center.jpg?v=1743433657",
       "historical_min": 66.8,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "c10dbe411f24",
@@ -2416,7 +2432,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/988286/3154513.jpg?v=638200666720270000",
       "historical_min": 78.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "0d42b1f07fa1",
@@ -2432,7 +2448,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/988291/3154521.jpg?v=638201018418270000",
       "historical_min": 78.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "ce96c64f7d20",
@@ -2448,7 +2464,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_rochefort_8_330_ml_44863_1_dc95f195db295b2ad04fd821ebc6025f.jpg",
       "historical_min": 69.95,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "f756c933a69a",
@@ -2464,7 +2480,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/337855569/868abec394d945405490273f4eca8dc6-bzgo4p2lhy.jpeg",
       "historical_min": 69.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "e4edaccdbfd5",
@@ -2480,7 +2496,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/337855570/c8a9e565123a41d131d18d2594359869-zi651l8oxy.jpeg",
       "historical_min": 69.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "7159f814854b",
@@ -2496,7 +2512,7 @@
       "image": "https://cdn.dooca.store/141579/products/cerveja-la-trappe-lond-2025-special-edition-750ml_495x495+fill_ffffff+crop_center.jpg?v=1764772986",
       "historical_min": 162.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "28858eca9ee8",
@@ -2512,7 +2528,7 @@
       "image": "https://cdn.dooca.store/141579/products/bpkzlxeuibqwkqeydfijcrxmt7aekr801q2i_495x495+fill_ffffff+crop_center.jpg?v=1743434718",
       "historical_min": 73.8,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "e98fc5e31ff3",
@@ -2528,7 +2544,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/349615754/3e94b4ddad690dcddf7820a143e73935-gjgbhnggki.webp",
       "historical_min": 79.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "6267ba8932d9",
@@ -2544,7 +2560,7 @@
       "image": "https://cdn.dooca.store/141579/products/i93l08uf17iofmoh2wbopwfe2jzgsvsodcl1_495x495+fill_ffffff+crop_center.jpg?v=1712587966",
       "historical_min": 187.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "a1dc734f96a7",
@@ -2560,7 +2576,7 @@
       "image": "https://cdn.dooca.store/141579/products/kit-cerveja-la-trappe-tripel-750ml_495x495+fill_ffffff+crop_center.jpg?v=1744312732",
       "historical_min": 187.5,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "35192d99aa00",
@@ -2576,7 +2592,7 @@
       "image": "https://cdn.dooca.store/141579/products/glnlyi2euprtkwuptshmipemim0uwxf9oweg_495x495+fill_ffffff+crop_center.jpg?v=1712587819",
       "historical_min": 194.5,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "9c0bf0246b55",
@@ -2592,7 +2608,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_brugse_zot_dubbel_330ml_kit_62490_1_ac5b2f22ec9101094c443f2f83c801a1.jpg",
       "historical_min": 87.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "9a25808f69b7",
@@ -2608,7 +2624,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_belga_straffe_hendrik_xmas_blend_2024_750m_1_20251124115723_7385ba8b781a.jpg",
       "historical_min": 199.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "81378d79a92c",
@@ -2624,7 +2640,7 @@
       "image": "https://cdn.dooca.store/141579/products/kit-cerveja-la-trappe-dubbel-750ml_495x495+fill_ffffff+crop_center.jpg?v=1744312799",
       "historical_min": 199.8,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "4befaf2e082d",
@@ -2640,7 +2656,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_rochefort_10_330_ml_48471_1_bbafb54ccbd72a8f2853901302f8b628.jpg",
       "historical_min": 88.5,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "3b1f1f14e71e",
@@ -2656,7 +2672,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/349619926/e3bddd4a241ae2d044e77634b8ff8e26-hgxs8gmrpk.jpeg",
       "historical_min": 89.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "3e5acb31f5fb",
@@ -2672,7 +2688,7 @@
       "image": "https://cdn.dooca.store/141579/products/2qe9jql4c4lxy9cskp4qton3i87hiygmeal1_495x495+fill_ffffff+crop_center.jpg?v=1712591998",
       "historical_min": 418.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "e2814589d9ed",
@@ -2688,7 +2704,7 @@
       "image": "https://cdn.dooca.store/141579/products/b9kkl6yblnmqoybzca3pqalf9nfzcdq5w4io_495x495+fill_ffffff+crop_center.jpg?v=1743434541",
       "historical_min": 92.3,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "f34001fb0d61",
@@ -2704,7 +2720,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/349615775/0c3cb5899d4936dac3d0b5d0344764e3-lfc1p6xzw3.webp",
       "historical_min": 99.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "e197aee6dbc1",
@@ -2720,7 +2736,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/1002271/3230465.png?v=638913160254900000",
       "historical_min": 229.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "76245ffccc61",
@@ -2736,7 +2752,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/349615733/9f087233b530b0eb50b69a787559a402-uqbwbhmf5e.webp",
       "historical_min": 109.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "0fff0390cb4d",
@@ -2752,7 +2768,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_straffe_hendrik_heritage_2020_oak_aged_750ml_62925_1_8fab681afb37db1a2f6b0dc5389f8511.jpg",
       "historical_min": 262.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "8e616df94e54",
@@ -2768,7 +2784,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_belga_straffe_hendrik_heritage_2021_oak_aged_750ml_63769_1_65d9f693c369acfdd7586e69967896fd.jpg",
       "historical_min": 280.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "9befb322d4b7",
@@ -2784,7 +2800,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_straffe_hendrik_heritage_2019_oak_aged_750ml_62566_1_4a03c7bf9733ce34f3d4ac6bee6271c0.jpg",
       "historical_min": 295.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "e210ac1895d1",
@@ -2800,7 +2816,7 @@
       "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/402466064/607a87dd136f15129e17b27c7f93905f-bx8mcqns4p.jpeg",
       "historical_min": 299.99,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "37af79a6bacf",
@@ -2816,7 +2832,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_belga_straffe_hendrik_heritage_2023_oak_aged_750ml_64313_1_f39b29fd46a6b210401150dd0382aa66.jpg",
       "historical_min": 340.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "37de4fa17e1a",
@@ -2832,7 +2848,23 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_belga_straffe_hendrik_heritage_2022_oak_aged_750ml_62481_1_d04adf8a75b7d95ac4fb72640ac16803.jpg",
       "historical_min": 350.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
+    },
+    {
+      "id": "7ffaff12b27f",
+      "brewery": "De Halve Maan",
+      "store": "Nono Bier",
+      "title": "Cerveja Belga Straffe Hendrik Heritage 2024 Oak Aged 750ml",
+      "price": 375.0,
+      "volume_ml": 750,
+      "quantity": 1,
+      "price_per_liter": 500.0,
+      "available": true,
+      "url": "https://www.nonobier.com.br/cerveja-belga-straffe-hendrik-heritage-2024-oak-aged-750ml",
+      "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_belga_straffe_hendrik_heritage_2024_oak_ag_1_20260921150933_0e51b494d91d.jpg",
+      "historical_min": 375.0,
+      "is_price_drop": false,
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "9ad1600c30b1",
@@ -2848,7 +2880,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/997191/3202178.jpg?v=638508421382200000",
       "historical_min": 388.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "0a08ce54a189",
@@ -2864,7 +2896,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_gorro_arlequim_brugse_zot_1_20261122195423_c10e4c993f9c.jpg",
       "historical_min": 58.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "9d3cf34a91cb",
@@ -2880,7 +2912,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710301.png?v=1795647396",
       "historical_min": 59.9,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "9c2ebcbf6d3b",
@@ -2896,7 +2928,7 @@
       "image": "https://clubedomalte.fbitsstatic.net/img/s/2260/9627cf99-0ce4-4803-8af2-da6cdfef4030.png",
       "historical_min": 71.7,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "9c3c05f98fdc",
@@ -2912,7 +2944,7 @@
       "image": "https://clubedomalte.fbitsstatic.net/img/s/2260/9627cf99-0ce4-4803-8af2-da6cdfef4030.png",
       "historical_min": 71.7,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "c5ff9485d78e",
@@ -2928,7 +2960,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_belga_orval_kit_64697_1_efdb0a51af4f5593b0ad3497b62fc3d2.jpg",
       "historical_min": 138.1,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "37103ae59625",
@@ -2944,7 +2976,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_belga_brugse_zot_blond_e_dubbel_gorro_1_20261122202155_58c469b301ef.jpg",
       "historical_min": 164.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "b9285f077b6a",
@@ -2960,7 +2992,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/1002269/3242803.png?v=638913133712530000",
       "historical_min": null,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "b1c5157ff1a6",
@@ -2976,7 +3008,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/1007687/3278905.png?v=639201543896100000",
       "historical_min": null,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "f7e1d16e52fd",
@@ -2992,7 +3024,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/986486/3044580.jpg?v=638126841663130000",
       "historical_min": null,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "5103d11a71cc",
@@ -3008,7 +3040,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/967472/1096770.jpg?v=637385202077270000",
       "historical_min": null,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "998bd423e82d",
@@ -3024,7 +3056,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/1005231/823783.png?v=639038210195030000",
       "historical_min": null,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     },
     {
       "id": "c48b3d5ca2dc",
@@ -3040,7 +3072,7 @@
       "image": "https://santaluzia.vteximg.com.br/arquivos/ids/1005232/814423.png?v=639038210554600000",
       "historical_min": null,
       "is_price_drop": false,
-      "updated_at": "2026-11-25T20:07:51-03:00"
+      "updated_at": "2026-11-25T20:53:17-03:00"
     }
   ]
 }
