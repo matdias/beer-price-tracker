@@ -4,7 +4,7 @@ import hashlib
 import json
 import os
 from datetime import datetime, timezone, timedelta
-from typing import Dict, List, Any
+from typing import Dict, List, Any, Tuple
 import httpx
 from playwright.async_api import async_playwright
 
@@ -24,10 +24,13 @@ def make_product_id(store: str, url: str) -> str:
     return hashlib.sha1(raw).hexdigest()[:12]
 
 
-def load_historical_min_prices() -> Dict[str, float]:
-    min_prices: Dict[str, float] = {}
+def load_historical_price_bounds() -> Dict[str, Tuple[float, float]]:
+    """
+    Retorna {id: (min_price, max_price)} considerando apenas registros em que o item estava disponível.
+    """
+    bounds: Dict[str, Tuple[float, float]] = {}
     if not os.path.exists(HISTORY_PATH):
-        return min_prices
+        return bounds
 
     with open(HISTORY_PATH, mode="r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
@@ -39,9 +42,12 @@ def load_historical_min_prices() -> Dict[str, float]:
             except ValueError:
                 continue
             if pid and avail and price > 0:
-                if pid not in min_prices or price < min_prices[pid]:
-                    min_prices[pid] = price
-    return min_prices
+                if pid not in bounds:
+                    bounds[pid] = (price, price)
+                else:
+                    cur_min, cur_max = bounds[pid]
+                    bounds[pid] = (min(cur_min, price), max(cur_max, price))
+    return bounds
 
 
 async def run():
@@ -50,7 +56,7 @@ async def run():
     timestamp_iso = now_brt.isoformat(timespec="seconds")
 
     scrapers = get_all_scrapers()
-    historical_mins = load_historical_min_prices()
+    historical_bounds = load_historical_price_bounds()
 
     collected: Dict[str, Dict[str, Any]] = {}
     store_logs: List[Dict[str, Any]] = []
@@ -95,11 +101,22 @@ async def run():
                                     item["price"], vol_ml, qty
                                 )
 
-                                prev_min = historical_mins.get(pid)
-                                is_all_time_low = bool(
+                                prev_bounds = historical_bounds.get(pid)
+                                if prev_bounds:
+                                    prev_min, prev_max = prev_bounds
+                                    overall_min = min(prev_min, item["price"]) if item["available"] else prev_min
+                                    overall_max = max(prev_max, item["price"]) if item["available"] else prev_max
+                                else:
+                                    overall_min = item["price"] if item["available"] else None
+                                    overall_max = item["price"] if item["available"] else None
+
+                                # Permanece ativo enquanto estiver no menor preço já visto E tiver havido queda real
+                                is_at_historical_low = bool(
                                     item["available"]
-                                    and prev_min is not None
-                                    and item["price"] < prev_min
+                                    and overall_min is not None
+                                    and overall_max is not None
+                                    and overall_min < overall_max
+                                    and item["price"] <= overall_min
                                 )
 
                                 collected[pid] = {
@@ -114,10 +131,8 @@ async def run():
                                     "available": item["available"],
                                     "url": item["url"],
                                     "image": item["image"],
-                                    "historical_min": min(prev_min, item["price"])
-                                    if (prev_min and item["available"])
-                                    else (item["price"] if item["available"] else prev_min),
-                                    "is_price_drop": is_all_time_low,
+                                    "historical_min": overall_min,
+                                    "is_price_drop": is_at_historical_low,
                                     "updated_at": timestamp_iso,
                                 }
                                 store_count += 1

@@ -93,7 +93,6 @@ def parse_html_cards(soup: BeautifulSoup, base_url: str, store_name: str) -> Lis
         if not title:
             title = a_tag.get("title") or a_tag.get_text(" ", strip=True)
 
-        # Extração de preço em ordem de prioridade + regex limpa
         price_el = _first_match(
             card,
             [
@@ -135,12 +134,30 @@ def parse_html_cards(soup: BeautifulSoup, base_url: str, store_name: str) -> Lis
             if "display:block" not in style:
                 hidden.decompose()
 
+        card_classes = " ".join(card.get("class", [])).lower()
         card_text = card_clone.get_text(" ", strip=True).lower()
+
+        # Checagem específica para Costi Bebidas / Bagy: se o card tem área de compra mas sem botão/form ativo
+        bagy_missing_buy = False
+        if "product-card" in card_classes:
+            has_add_form = card.select_one("form[action*='cart/add']") is not None
+            disabled_btn = card.select_one("button[disabled], .btn-disabled, .out-of-stock, .unavailable") is not None
+            if disabled_btn or (not has_add_form and "comprar" not in card_text and "adicionar" not in card_text):
+                bagy_missing_buy = True
+
         out_of_stock = (
-            "indisponivel" in " ".join(card.get("class", []))
+            bagy_missing_buy
+            or any(c in card_classes for c in ["indisponivel", "out-of-stock", "sold-out", "unavailable"])
             or any(
                 w in card_text
-                for w in ["esgotado", "indisponível", "indisponivel", "avise-me", "produto indisponível"]
+                for w in [
+                    "esgotado",
+                    "indisponível",
+                    "indisponivel",
+                    "sem estoque",
+                    "avise-me",
+                    "avise me",
+                ]
             )
         )
 

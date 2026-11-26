@@ -45,9 +45,10 @@ function openDrawer(item, historyRows) {
   document.getElementById('drawer-link').href = item.url;
 
   const isDark = document.documentElement.classList.contains('dark');
-  const lineColor = isDark ? '#2997ff' : '#0071e3';
+  const lineColor = isDark ? '#c96a28' : '#a85118';
   const gridColor = isDark ? 'rgba(255,255,255,0.06)' : 'rgba(0,0,0,0.06)';
   const tickColor = '#86868b';
+
 
   const ctx = document.getElementById('history-chart').getContext('2d');
   if (chartInstance) chartInstance.destroy();
@@ -61,7 +62,7 @@ function openDrawer(item, historyRows) {
           label: 'Preço (R$)',
           data: points.map((p) => p.price),
           borderColor: lineColor,
-          backgroundColor: isDark ? 'rgba(41, 151, 255, 0.12)' : 'rgba(0, 113, 227, 0.1)',
+          backgroundColor: isDark ? 'rgba(201, 106, 40, 0.14)' : 'rgba(168, 81, 24, 0.12)',
           borderWidth: 2,
           fill: true,
           tension: 0.3,
