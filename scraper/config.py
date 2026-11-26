@@ -8,7 +8,6 @@ BREWERIES = {
     "Hacker-Pschorr": ["hacker pschorr", "hacker-pschorr"],
     "Hofbräu": ["hofbrau", "hofbräu"],
     "Pilsner Urquell": ["pilsner urquell", "urquell"],
-    "Van Honsebrouck": ["honsebrouck", "filou"],
     "Orval": ["orval"],
     "Rochefort": ["rochefort"],
     "La Trappe": ["la trappe"],
