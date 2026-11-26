@@ -1,5 +1,5 @@
 import { fetchDashboardData } from './api.js';
-import { renderHeader, renderFilters, renderKPIs, renderCards } from './render.js';
+import { renderHeader, renderAlerts, renderFilters, renderKPIs, renderCards } from './render.js';
 import { setupDrawer } from './drawer.js';
 
 const state = {
@@ -9,12 +9,6 @@ const state = {
 };
 
 function setupUIControls() {
-  const themeBtn = document.getElementById('theme-toggle');
-  themeBtn.addEventListener('click', () => {
-    const isDark = document.documentElement.classList.toggle('dark');
-    themeBtn.textContent = isDark ? 'Claro' : 'Escuro';
-  });
-
   const statusBtn = document.getElementById('status-btn');
   const statusPopover = document.getElementById('status-popover');
   statusBtn.addEventListener('click', (e) => {
@@ -57,6 +51,7 @@ function applyFiltersAndRender() {
     if (sortBy === 'drop_first') {
       return (
         b.is_price_drop - a.is_price_drop ||
+        (b.drop_percent || 0) - (a.drop_percent || 0) ||
         (a.price_per_liter ?? 9e9) - (b.price_per_liter ?? 9e9)
       );
     }
@@ -79,6 +74,7 @@ async function init() {
     state.historyRows = data.historyRows;
 
     renderHeader(data.generatedAt, data.stores);
+    renderAlerts(data.alerts);
     renderFilters(state.items, (brewery) => {
       state.selectedBrewery = brewery;
       applyFiltersAndRender();

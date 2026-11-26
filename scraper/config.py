@@ -1,10 +1,11 @@
+MIN_DROP_PERCENT = 10.0  # Queda mínima (%) sobre o menor R$/L histórico do grupo para disparar alerta
+
 BREWERIES = {
     "Schlenkerla": ["schlenkerla"],
     "Duvel": ["duvel"],
     "Paulaner": ["paulaner"],
     "Bitburger": ["bitburger"],
     "De Halve Maan": ["halve maan", "straffe hendrik", "brugse zot", "brugs zot"],
-    "Goose Island": ["goose island"],
     "Hacker-Pschorr": ["hacker pschorr", "hacker-pschorr"],
     "Hofbräu": ["hofbrau", "hofbräu"],
     "Pilsner Urquell": ["pilsner urquell", "urquell"],
@@ -14,11 +15,17 @@ BREWERIES = {
 }
 
 NEGATIVE_KEYWORDS = [
-    "taça", "taca", "cálice", "calice", "copo", "caneca",
+    # Copos, taças e kits promocionais com brinde/souvenir
+    "taça", "taca", "taças", "tacas",
+    "cálice", "calice", "cálices", "calices",
+    "copo", "copos", "caneca", "canecas",
+    "com copo", "c/ copo", "com taça", "c/ taça", "com taca", "c/ taca",
+    "com cálice", "c/ cálice", "com calice", "c/ calice",
+    "com caneca", "c/ caneca", "copo exclusivo", "taça exclusiva",
     "bolacha", "porta copo", "porta-copo", "camiseta", "boné", "bone",
     "quadro", "placa", "balde", "abridor", "chaveiro", "cooler",
-    "adesivo", "bandeira", "kit presente sem cerveja",
-    # Insumos de brewshop (Piquiri)
+    "adesivo", "bandeira", "souvenir", "gift", "presente",
+    # Insumos de brewshop
     "insumo", "malte", "lúpulo", "lupulo", "levedura", "fermento",
     "receita 20l", "receita 10l", "receita 40l", "extrato de malte",
     "post mix", "post-mix", "keg vazio"

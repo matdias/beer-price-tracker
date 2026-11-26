@@ -28,6 +28,70 @@ export function renderHeader(generatedAt, stores) {
     .join('');
 }
 
+export function renderAlerts(alerts) {
+  const section = document.getElementById('alerts-section');
+  const container = document.getElementById('alerts-list');
+
+  if (!alerts || alerts.length === 0) {
+    section.hidden = true;
+    return;
+  }
+
+  section.hidden = false;
+  container.innerHTML = alerts
+    .slice(0, 6)
+    .map((a) => {
+      const dt = new Date(a.timestamp);
+      const timeStr = dt.toLocaleString('pt-BR', {
+        day: '2-digit',
+        month: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit',
+      });
+
+      if (a.type === 'price_drop') {
+        const pct = Number(a.drop_percent || 0).toFixed(1).replace('.', ',');
+        return `
+          <a href="${a.url}" target="_blank" rel="noopener" class="alert-card tabular">
+            <div>
+              <div class="alert-top">
+                <span class="badge badge-drop">-${pct}% vs. mínima</span>
+                <span class="alert-time">${timeStr}</span>
+              </div>
+              <div class="alert-beer" style="margin-top: 8px;">${a.group_name}</div>
+              <div class="alert-store">${a.store} • ${a.title}</div>
+            </div>
+            <div class="alert-pricing">
+              <div>
+                <strong style="color: var(--green);">${formatBRL(a.current_ppl)}/L</strong>
+                <span class="alert-prev" style="margin-left: 6px;">${formatBRL(a.previous_min_ppl)}/L</span>
+              </div>
+              <span style="font-weight: 600;">${formatBRL(a.current_price)}</span>
+            </div>
+          </a>
+        `;
+      }
+
+      return `
+        <a href="${a.url}" target="_blank" rel="noopener" class="alert-card is-restock tabular">
+          <div>
+            <div class="alert-top">
+              <span class="badge badge-out">Retorno ao estoque</span>
+              <span class="alert-time">${timeStr}</span>
+            </div>
+            <div class="alert-beer" style="margin-top: 8px;">${a.group_name}</div>
+            <div class="alert-store">${a.store} • ${a.title}</div>
+          </div>
+          <div class="alert-pricing">
+            <span style="color: var(--text-secondary);">${a.current_ppl ? formatBRL(a.current_ppl) + '/L' : ''}</span>
+            <span style="font-weight: 600;">${formatBRL(a.current_price)}</span>
+          </div>
+        </a>
+      `;
+    })
+    .join('');
+}
+
 export function renderFilters(items, onBreweryChange) {
   const breweries = [...new Set(items.map((i) => i.brewery))].sort();
   const stores = [...new Set(items.map((i) => i.store))].sort();
@@ -93,7 +157,8 @@ export function renderCards(items) {
       if (!item.available) {
         badgeHtml = `<span class="badge badge-out">Esgotado</span>`;
       } else if (item.is_price_drop) {
-        badgeHtml = `<span class="badge badge-drop">Mínima</span>`;
+        const pct = Number(item.drop_percent || 0).toFixed(0);
+        badgeHtml = `<span class="badge badge-drop">-${pct}% Mínima</span>`;
       }
 
       const imgHtml = item.image

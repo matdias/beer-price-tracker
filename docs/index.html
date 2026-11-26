@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-BR" class="dark">
+<html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -20,9 +20,6 @@
         <button id="status-btn" class="icon-btn" type="button">
           <span class="dot" id="health-dot"></span>
           <span id="health-label">Lojas</span>
-        </button>
-        <button id="theme-toggle" class="icon-btn" type="button" title="Alternar tema">
-          Claro
         </button>
 
         <div id="status-popover" class="popover">
@@ -54,10 +51,19 @@
           <div class="metric-value" id="kpi-best-liter">—</div>
         </div>
         <div>
-          <div class="metric-label">Mínima Histórica</div>
+          <div class="metric-label">Quedas &ge;10%</div>
           <div class="metric-value" id="kpi-drops" style="color: var(--green);">—</div>
         </div>
       </div>
+    </section>
+
+    <!-- Seção de Alertas Recentes -->
+    <section id="alerts-section" class="alerts-section" hidden>
+      <div class="section-header">
+        <h3 class="section-title">Alertas Recentes</h3>
+        <span class="section-subtitle">Quedas reais &ge; 10% sobre o menor R$/L agrupado &amp; retornos ao estoque</span>
+      </div>
+      <div id="alerts-list" class="alerts-grid"></div>
     </section>
 
     <section class="controls">
@@ -75,7 +81,7 @@
         <select id="sort-by" class="select-input">
           <option value="ppl_asc">Ordenar: Menor R$/Litro</option>
           <option value="price_asc">Ordenar: Menor Preço</option>
-          <option value="drop_first">Ordenar: Mínimas Históricas</option>
+          <option value="drop_first">Ordenar: Quedas de Preço</option>
           <option value="brewery_asc">Ordenar: Cervejaria (A–Z)</option>
         </select>
       </div>
@@ -102,11 +108,11 @@
 
       <div class="stat-grid tabular">
         <div>
-          <div class="metric-label">Preço Atual</div>
+          <div class="metric-label">R$/Litro Atual</div>
           <div id="drawer-current" class="metric-value">—</div>
         </div>
         <div>
-          <div class="metric-label">Menor Já Registrado</div>
+          <div class="metric-label">Menor R$/L do Rótulo</div>
           <div id="drawer-min" class="metric-value" style="color: var(--green);">—</div>
         </div>
       </div>

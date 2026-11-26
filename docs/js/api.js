@@ -5,9 +5,10 @@ export const formatBRL = (value) =>
 
 export async function fetchDashboardData() {
   const cacheBust = `?t=${Date.now()}`;
-  const [latestRes, logsRes, csvRes] = await Promise.all([
+  const [latestRes, logsRes, alertsRes, csvRes] = await Promise.all([
     fetch(`data/latest.json${cacheBust}`),
     fetch(`data/logs.json${cacheBust}`),
+    fetch(`data/alerts.json${cacheBust}`),
     fetch(`data/history.csv${cacheBust}`),
   ]);
 
@@ -17,6 +18,7 @@ export async function fetchDashboardData() {
 
   const latestData = await latestRes.json();
   const logsData = logsRes.ok ? await logsRes.json() : { stores: [] };
+  const alertsData = alertsRes.ok ? await alertsRes.json() : { alerts: [] };
   const csvText = csvRes.ok ? await csvRes.text() : '';
   const historyRows = window.Papa
     ? window.Papa.parse(csvText, { header: true, skipEmptyLines: true }).data
@@ -26,6 +28,7 @@ export async function fetchDashboardData() {
     generatedAt: latestData.generated_at,
     items: latestData.items || [],
     stores: logsData.stores || [],
+    alerts: alertsData.alerts || [],
     historyRows,
   };
 }

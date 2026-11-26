@@ -4,13 +4,19 @@ import hashlib
 import json
 import os
 from datetime import datetime, timezone, timedelta
-from typing import Dict, List, Any, Tuple
+from typing import Dict, List, Any, Set
 import httpx
 from playwright.async_api import async_playwright
 
-from .config import BREWERIES
-from .normalizer import is_valid_beer, extract_volume_and_qty, calculate_price_per_liter
+from .config import BREWERIES, MIN_DROP_PERCENT
+from .normalizer import (
+    is_valid_beer,
+    extract_volume_and_qty,
+    calculate_price_per_liter,
+    build_beer_group,
+)
 from .stores import get_all_scrapers
+from .notifier import dispatch_alerts
 
 TZ_BRT = timezone(timedelta(hours=-3))
 DATA_DIR = os.path.join("docs", "data")
@@ -24,30 +30,67 @@ def make_product_id(store: str, url: str) -> str:
     return hashlib.sha1(raw).hexdigest()[:12]
 
 
-def load_historical_price_bounds() -> Dict[str, Tuple[float, float]]:
+def load_previous_snapshot() -> Set[str]:
+    """Retorna os group_ids que estavam disponíveis na rodada imediatamente anterior."""
+    if not os.path.exists(LATEST_PATH):
+        return set()
+    try:
+        with open(LATEST_PATH, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        return {
+            item["group_id"]
+            for item in data.get("items", [])
+            if item.get("available") and item.get("group_id")
+        }
+    except Exception:
+        return set()
+
+
+def load_historical_stats() -> tuple[Dict[str, float], Dict[str, float], Set[str]]:
     """
-    Retorna {id: (min_price, max_price)} considerando apenas registros em que o item estava disponível.
+    Lê history.csv e retorna:
+    - item_min_prices: {product_id: menor preço unitário histórico}
+    - group_min_ppl: {group_id: menor R$/L histórico em qualquer loja/pack}
+    - ever_seen_groups: conjunto de group_ids que já estiveram disponíveis alguma vez
     """
-    bounds: Dict[str, Tuple[float, float]] = {}
+    item_min_prices: Dict[str, float] = {}
+    group_min_ppl: Dict[str, float] = {}
+    ever_seen_groups: Set[str] = set()
+
     if not os.path.exists(HISTORY_PATH):
-        return bounds
+        return item_min_prices, group_min_ppl, ever_seen_groups
 
     with open(HISTORY_PATH, mode="r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
             pid = row.get("id")
+            gid = row.get("group_id")
             avail = row.get("available") == "True"
+            if not avail:
+                continue
+
+            if gid:
+                ever_seen_groups.add(gid)
+
             try:
                 price = float(row.get("price", 0))
+                if pid and price > 0:
+                    if pid not in item_min_prices or price < item_min_prices[pid]:
+                        item_min_prices[pid] = price
             except ValueError:
-                continue
-            if pid and avail and price > 0:
-                if pid not in bounds:
-                    bounds[pid] = (price, price)
-                else:
-                    cur_min, cur_max = bounds[pid]
-                    bounds[pid] = (min(cur_min, price), max(cur_max, price))
-    return bounds
+                pass
+
+            try:
+                ppl_raw = row.get("price_per_liter", "")
+                if gid and ppl_raw:
+                    ppl = float(ppl_raw)
+                    if ppl > 0:
+                        if gid not in group_min_ppl or ppl < group_min_ppl[gid]:
+                            group_min_ppl[gid] = ppl
+            except ValueError:
+                pass
+
+    return item_min_prices, group_min_ppl, ever_seen_groups
 
 
 async def run():
@@ -56,7 +99,8 @@ async def run():
     timestamp_iso = now_brt.isoformat(timespec="seconds")
 
     scrapers = get_all_scrapers()
-    historical_bounds = load_historical_price_bounds()
+    prev_available_groups = load_previous_snapshot()
+    item_min_prices, group_min_ppl, ever_seen_groups = load_historical_stats()
 
     collected: Dict[str, Dict[str, Any]] = {}
     store_logs: List[Dict[str, Any]] = []
@@ -100,27 +144,31 @@ async def run():
                                 price_per_liter = calculate_price_per_liter(
                                     item["price"], vol_ml, qty
                                 )
+                                group_id, group_name = build_beer_group(title, brewery)
 
-                                prev_bounds = historical_bounds.get(pid)
-                                if prev_bounds:
-                                    prev_min, prev_max = prev_bounds
-                                    overall_min = min(prev_min, item["price"]) if item["available"] else prev_min
-                                    overall_max = max(prev_max, item["price"]) if item["available"] else prev_max
-                                else:
-                                    overall_min = item["price"] if item["available"] else None
-                                    overall_max = item["price"] if item["available"] else None
+                                prev_item_min = item_min_prices.get(pid)
+                                prev_grp_min_ppl = group_min_ppl.get(group_id)
 
-                                # Permanece ativo enquanto estiver no menor preço já visto E tiver havido queda real
-                                is_at_historical_low = bool(
+                                drop_percent = 0.0
+                                is_significant_drop = False
+                                if (
                                     item["available"]
-                                    and overall_min is not None
-                                    and overall_max is not None
-                                    and overall_min < overall_max
-                                    and item["price"] <= overall_min
-                                )
+                                    and price_per_liter is not None
+                                    and prev_grp_min_ppl is not None
+                                    and prev_grp_min_ppl > 0
+                                    and price_per_liter < prev_grp_min_ppl
+                                ):
+                                    drop_percent = round(
+                                        ((prev_grp_min_ppl - price_per_liter) / prev_grp_min_ppl) * 100,
+                                        1,
+                                    )
+                                    if drop_percent >= MIN_DROP_PERCENT:
+                                        is_significant_drop = True
 
                                 collected[pid] = {
                                     "id": pid,
+                                    "group_id": group_id,
+                                    "group_name": group_name,
                                     "brewery": brewery,
                                     "store": store.name,
                                     "title": title,
@@ -131,8 +179,15 @@ async def run():
                                     "available": item["available"],
                                     "url": item["url"],
                                     "image": item["image"],
-                                    "historical_min": overall_min,
-                                    "is_price_drop": is_at_historical_low,
+                                    "historical_min": min(prev_item_min, item["price"])
+                                    if (prev_item_min and item["available"])
+                                    else (item["price"] if item["available"] else prev_item_min),
+                                    "group_min_ppl": min(prev_grp_min_ppl, price_per_liter)
+                                    if (prev_grp_min_ppl and price_per_liter and item["available"])
+                                    else (price_per_liter if item["available"] else prev_grp_min_ppl),
+                                    "previous_group_min_ppl": prev_grp_min_ppl,
+                                    "drop_percent": drop_percent,
+                                    "is_price_drop": is_significant_drop,
                                     "updated_at": timestamp_iso,
                                 }
                                 store_count += 1
@@ -171,6 +226,62 @@ async def run():
         ),
     )
 
+    # Geração de alertas (1: Queda >= 10% no R$/L do grupo | 2: Retorno ao estoque do grupo)
+    new_alerts: List[Dict[str, Any]] = []
+
+    # Agrupa melhor oferta atual de cada group_id para evitar duplicar alertas na mesma rodada
+    best_current_by_group: Dict[str, Dict[str, Any]] = {}
+    for item in items_list:
+        if not item["available"]:
+            continue
+        gid = item["group_id"]
+        cur_best = best_current_by_group.get(gid)
+        if cur_best is None:
+            best_current_by_group[gid] = item
+        else:
+            p_new = item["price_per_liter"] if item["price_per_liter"] is not None else 9e9
+            p_old = cur_best["price_per_liter"] if cur_best["price_per_liter"] is not None else 9e9
+            if p_new < p_old:
+                best_current_by_group[gid] = item
+
+    for gid, best_item in best_current_by_group.items():
+        if best_item["is_price_drop"]:
+            new_alerts.append({
+                "type": "price_drop",
+                "timestamp": timestamp_iso,
+                "group_id": gid,
+                "group_name": best_item["group_name"],
+                "brewery": best_item["brewery"],
+                "store": best_item["store"],
+                "title": best_item["title"],
+                "url": best_item["url"],
+                "current_price": best_item["price"],
+                "current_ppl": best_item["price_per_liter"],
+                "previous_min_ppl": best_item["previous_group_min_ppl"],
+                "drop_percent": best_item["drop_percent"],
+            })
+        elif (
+            prev_available_groups
+            and gid in ever_seen_groups
+            and gid not in prev_available_groups
+        ):
+            new_alerts.append({
+                "type": "restock",
+                "timestamp": timestamp_iso,
+                "group_id": gid,
+                "group_name": best_item["group_name"],
+                "brewery": best_item["brewery"],
+                "store": best_item["store"],
+                "title": best_item["title"],
+                "url": best_item["url"],
+                "current_price": best_item["price"],
+                "current_ppl": best_item["price_per_liter"],
+                "previous_min_ppl": best_item["previous_group_min_ppl"],
+                "drop_percent": 0.0,
+            })
+
+    await dispatch_alerts(new_alerts, timestamp_iso)
+
     with open(LATEST_PATH, "w", encoding="utf-8") as f:
         json.dump(
             {
@@ -193,7 +304,16 @@ async def run():
 
     file_exists = os.path.exists(HISTORY_PATH)
     with open(HISTORY_PATH, mode="a", newline="", encoding="utf-8") as f:
-        fieldnames = ["timestamp", "id", "brewery", "store", "price", "price_per_liter", "available"]
+        fieldnames = [
+            "timestamp",
+            "id",
+            "group_id",
+            "brewery",
+            "store",
+            "price",
+            "price_per_liter",
+            "available",
+        ]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         if not file_exists:
             writer.writeheader()
@@ -201,6 +321,7 @@ async def run():
             writer.writerow({
                 "timestamp": timestamp_iso,
                 "id": item["id"],
+                "group_id": item["group_id"],
                 "brewery": item["brewery"],
                 "store": item["store"],
                 "price": item["price"],

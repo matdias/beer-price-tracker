@@ -16,7 +16,6 @@ export function setupDrawer(getItemById, getHistoryRows) {
   closeBtn.addEventListener('click', close);
   backdrop.addEventListener('click', close);
 
-  // Event delegation para os botões "Histórico" nos cards
   grid.addEventListener('click', (e) => {
     const btn = e.target.closest('[data-history-id]');
     if (!btn) return;
@@ -38,17 +37,19 @@ function openDrawer(item, historyRows) {
       price: parseFloat(r.price),
     }));
 
-  document.getElementById('drawer-eyebrow').textContent = `${item.brewery} • ${item.store}`;
+  document.getElementById('drawer-eyebrow').textContent = `${item.group_name || item.brewery} • ${item.store}`;
   document.getElementById('drawer-title').textContent = item.title;
-  document.getElementById('drawer-current').textContent = formatBRL(item.price);
-  document.getElementById('drawer-min').textContent = formatBRL(item.historical_min ?? item.price);
+  document.getElementById('drawer-current').textContent = item.price_per_liter
+    ? `${formatBRL(item.price_per_liter)}/L`
+    : formatBRL(item.price);
+  document.getElementById('drawer-min').textContent = item.group_min_ppl
+    ? `${formatBRL(item.group_min_ppl)}/L`
+    : formatBRL(item.historical_min ?? item.price);
   document.getElementById('drawer-link').href = item.url;
 
-  const isDark = document.documentElement.classList.contains('dark');
-  const lineColor = isDark ? '#f59e0b' : '#d97706';
-  const gridColor = isDark ? 'rgba(255,255,255,0.06)' : 'rgba(0,0,0,0.06)';
+  const lineColor = '#d97706';
+  const gridColor = 'rgba(0, 0, 0, 0.06)';
   const tickColor = '#86868b';
-
 
   const ctx = document.getElementById('history-chart').getContext('2d');
   if (chartInstance) chartInstance.destroy();
@@ -62,7 +63,7 @@ function openDrawer(item, historyRows) {
           label: 'Preço (R$)',
           data: points.map((p) => p.price),
           borderColor: lineColor,
-          backgroundColor: isDark ? 'rgba(245, 158, 11, 0.14)' : 'rgba(217, 119, 6, 0.12)',
+          backgroundColor: 'rgba(217, 119, 6, 0.12)',
           borderWidth: 2,
           fill: true,
           tension: 0.3,
