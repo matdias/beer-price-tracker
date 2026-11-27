@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-11-27T12:13:05-03:00",
+  "generated_at": "2026-11-27T14:43:04-03:00",
   "stores": [
     {
       "store": "Casa Flora",
       "status": "ok",
-      "items_found": 11,
+      "items_found": 10,
       "errors": [],
-      "checked_at": "2026-11-27T12:13:05-03:00"
+      "checked_at": "2026-11-27T14:43:04-03:00"
     },
     {
       "store": "Casa Santa Luzia",
       "status": "ok",
       "items_found": 36,
       "errors": [],
-      "checked_at": "2026-11-27T12:13:05-03:00"
+      "checked_at": "2026-11-27T14:43:04-03:00"
     },
     {
       "store": "Família Scopel",
       "status": "ok",
-      "items_found": 11,
+      "items_found": 13,
       "errors": [],
-      "checked_at": "2026-11-27T12:13:05-03:00"
+      "checked_at": "2026-11-27T14:43:04-03:00"
     },
     {
       "store": "Piquiri Brewshop",
       "status": "ok",
       "items_found": 21,
       "errors": [],
-      "checked_at": "2026-11-27T12:13:05-03:00"
+      "checked_at": "2026-11-27T14:43:04-03:00"
     },
     {
       "store": "Clube do Malte",
       "status": "ok",
       "items_found": 2,
       "errors": [],
-      "checked_at": "2026-11-27T12:13:05-03:00"
+      "checked_at": "2026-11-27T14:43:04-03:00"
     },
     {
       "store": "Costi Bebidas",
       "status": "ok",
       "items_found": 54,
       "errors": [],
-      "checked_at": "2026-11-27T12:13:05-03:00"
+      "checked_at": "2026-11-27T14:43:04-03:00"
     },
     {
       "store": "Nono Bier",
       "status": "ok",
-      "items_found": 49,
+      "items_found": 48,
       "errors": [],
-      "checked_at": "2026-11-27T12:13:05-03:00"
+      "checked_at": "2026-11-27T14:43:04-03:00"
     }
   ]
 }
