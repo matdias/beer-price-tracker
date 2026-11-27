@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T19:38:04-03:00",
-  "total_items": 184,
+  "generated_at": "2026-11-26T21:47:44-03:00",
+  "total_items": 185,
   "items": [
     {
       "id": "1d780fcd2451",
@@ -21,7 +21,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "75f5f71b8fd0",
@@ -42,7 +42,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "5c6a130d035a",
@@ -63,7 +63,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "6e7471b323dc",
@@ -84,7 +84,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "873a099098cb",
@@ -105,7 +105,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "d6e89fdbddf4",
@@ -120,13 +120,34 @@
       "price_per_liter": 31.8,
       "available": true,
       "url": "https://www.casaflora.com.br/products/cerveja-alema-hacker-pschorr-munchener-gold-lata-500ml-1",
-      "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710207_66aea5f7-ad2f-4a2e-ac80-8da9ccf53d89.png?v=1795705351",
+      "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710207_52f02075-f26b-40a6-8065-594369e8e474.png?v=1795738257",
       "historical_min": 15.9,
       "group_min_ppl": 31.8,
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
+    },
+    {
+      "id": "5c9f21b8b389",
+      "group_id": "hacker-pschorr-hefe-weisse",
+      "group_name": "Hacker-Pschorr Hefe Weisse",
+      "brewery": "Hacker-Pschorr",
+      "store": "Casa Flora",
+      "title": "Cerveja Alemã Hacker Pschorr Weissbier Lata 500ml",
+      "price": 15.9,
+      "volume_ml": 500,
+      "quantity": 1,
+      "price_per_liter": 31.8,
+      "available": true,
+      "url": "https://www.casaflora.com.br/products/cerveja-alema-hacker-pschorr-weissbier-lata-500ml-1",
+      "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710203_111acc31-5e34-40b7-a5ea-bb3502fc8df7.png?v=1795738252",
+      "historical_min": 15.9,
+      "group_min_ppl": 31.8,
+      "previous_group_min_ppl": null,
+      "drop_percent": 0.0,
+      "is_price_drop": false,
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "a0c81549e2a0",
@@ -147,7 +168,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "e6ff38413326",
@@ -168,7 +189,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "3034d5726231",
@@ -189,7 +210,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "562ce8cc9582",
@@ -210,7 +231,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "092a422d8d1c",
@@ -231,7 +252,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "8a230945ef96",
@@ -252,7 +273,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "8fe72ed8fe81",
@@ -273,7 +294,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "f2a0a05614f7",
@@ -294,7 +315,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "465629787f72",
@@ -315,7 +336,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "fbf0f5ecb3a2",
@@ -336,7 +357,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "444d6db8f1e0",
@@ -357,7 +378,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "fc16b343da54",
@@ -378,7 +399,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "573ce6b04f05",
@@ -399,7 +420,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "e4affb34ac33",
@@ -420,7 +441,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "f1f44b543c51",
@@ -435,13 +456,13 @@
       "price_per_liter": 39.8,
       "available": true,
       "url": "https://www.casaflora.com.br/products/cerveja-alema-paulaner-pilsner-lata-500ml",
-      "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710210_0947380d-6948-4cca-9d75-931ee2e83c41.png?v=1795716779",
+      "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710210_543d3a37-ba46-4537-a4b1-ee81bd8303a7.png?v=1795737716",
       "historical_min": 19.9,
       "group_min_ppl": 39.8,
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "18913fd3efdb",
@@ -456,13 +477,13 @@
       "price_per_liter": 39.8,
       "available": true,
       "url": "https://www.casaflora.com.br/products/cerveja-alema-paulaner-weissbier-lata-500ml",
-      "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710215_CERVEJA_20ALE_20PAULANER_20WEISSBIER_20LT_500ml.png?v=1795716946",
+      "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710215_CERVEJA_20ALE_20PAULANER_20WEISSBIER_20LT_500ml.png?v=1795737720",
       "historical_min": 19.9,
       "group_min_ppl": 39.8,
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "802ede82e660",
@@ -477,13 +498,13 @@
       "price_per_liter": 39.8,
       "available": true,
       "url": "https://www.casaflora.com.br/products/cerveja-alema-paulaner-munchner-hell-lata-500ml",
-      "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710052_CERVEJA_20PAULANER_20MUNC_20HELL_20LT_500ml.png?v=1795716941",
+      "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710052_CERVEJA_20PAULANER_20MUNC_20HELL_20LT_500ml.png?v=1795737831",
       "historical_min": 19.9,
       "group_min_ppl": 39.8,
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "bcefbafe261e",
@@ -504,7 +525,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "d0c766bb08de",
@@ -525,7 +546,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "89879adc6041",
@@ -546,7 +567,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "d8ff213fe848",
@@ -567,7 +588,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "6d12541a290f",
@@ -588,7 +609,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "f91e72fba0ca",
@@ -609,7 +630,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "b521a5b7e08a",
@@ -624,13 +645,13 @@
       "price_per_liter": 43.38,
       "available": true,
       "url": "https://www.casaflora.com.br/products/cerveja-alema-paulaner-weissbier-barril-5l",
-      "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710027.png?v=1795705618",
+      "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710027.png?v=1795733769",
       "historical_min": 216.9,
       "group_min_ppl": 43.38,
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "c688d582b1c5",
@@ -651,7 +672,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "14a5ff06bc45",
@@ -672,7 +693,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "dfa75e49f1e7",
@@ -693,7 +714,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "c5a7b178903d",
@@ -708,13 +729,13 @@
       "price_per_liter": 47.8,
       "available": true,
       "url": "https://www.casaflora.com.br/products/cerveja-alema-paulaner-weissbier-garrafa-500ml-1",
-      "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710021.png?v=1795728603",
+      "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710021.png?v=1795737606",
       "historical_min": 23.9,
       "group_min_ppl": 47.8,
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "6bbfe7644b97",
@@ -729,13 +750,13 @@
       "price_per_liter": 47.8,
       "available": true,
       "url": "https://www.casaflora.com.br/products/cerveja-alema-paulaner-munchner-hell-garrafa-500ml",
-      "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710020_CERVEJA_20ALE_20PAULANER_20MUNCHNER_20HELL_500ml.png?v=1795728597",
+      "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710020_CERVEJA_20ALE_20PAULANER_20MUNCHNER_20HELL_500ml.png?v=1795732965",
       "historical_min": 23.9,
       "group_min_ppl": 47.8,
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "59cdf11ea326",
@@ -750,13 +771,13 @@
       "price_per_liter": 47.8,
       "available": true,
       "url": "https://www.casaflora.com.br/products/cerveja-alema-paulaner-lemon-radler-lata-500ml",
-      "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710030.png?v=1795693690",
+      "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710030.png?v=1795738249",
       "historical_min": 23.9,
       "group_min_ppl": 47.8,
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "decbe42bc88f",
@@ -771,13 +792,13 @@
       "price_per_liter": 47.8,
       "available": true,
       "url": "https://www.casaflora.com.br/products/cerveja-alema-paulaner-weissibier-dunkel-garrafa-500ml",
-      "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710022.png?v=1795732638",
+      "image": "https://cdn.shopify.com/s/files/1/0689/4016/9386/files/710022.png?v=1795737614",
       "historical_min": 23.9,
       "group_min_ppl": 47.8,
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "f790eb6007fc",
@@ -798,7 +819,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "b39e0d1f792c",
@@ -819,7 +840,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "dbf9e56501aa",
@@ -840,7 +861,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "e57cdca7a32b",
@@ -861,7 +882,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "5a8e7ea7d4b2",
@@ -882,7 +903,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "0092deda9841",
@@ -903,7 +924,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "53f01f326a62",
@@ -924,7 +945,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "ee4c1e2e2c61",
@@ -945,7 +966,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "db441cac141b",
@@ -966,7 +987,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "b9a33d033cc0",
@@ -987,28 +1008,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
-    },
-    {
-      "id": "1b488f60f29f",
-      "group_id": "paulaner-pils",
-      "group_name": "Paulaner Pils",
-      "brewery": "Paulaner",
-      "store": "Clube do Malte",
-      "title": "Cerveja Paulaner Pils Lata 500ml",
-      "price": 39.9,
-      "volume_ml": 500,
-      "quantity": 1,
-      "price_per_liter": 79.8,
-      "available": true,
-      "url": "https://www.clubedomalte.com.br/produto/cerveja-paulaner-pils-lata-500ml-97216",
-      "image": "https://ClubeDoMalte.fbitsstatic.net/img/p/cerveja-paulaner-pils-lata-500ml-97216/264614-1.jpg?w=275&h=275&v=202611061154",
-      "historical_min": 39.9,
-      "group_min_ppl": 79.8,
-      "previous_group_min_ppl": null,
-      "drop_percent": 0.0,
-      "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "8350dcb7450b",
@@ -1029,7 +1029,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "6035ed54b918",
@@ -1050,7 +1050,49 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
+    },
+    {
+      "id": "67916c0f39bf",
+      "group_id": "de-halve-maan-brugse-zot-blond",
+      "group_name": "De Halve Maan Brugse Zot Blond",
+      "brewery": "De Halve Maan",
+      "store": "Nono Bier",
+      "title": "Cerveja Belga Brugse Zot Blond 330ml",
+      "price": 28.95,
+      "volume_ml": 330,
+      "quantity": 1,
+      "price_per_liter": 87.73,
+      "available": true,
+      "url": "https://www.nonobier.com.br/cerveja-brugse-zot-blond-330ml",
+      "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_belga_brugse_zot_blond_330ml_1_20250801143017_c2689fa8d128.jpg",
+      "historical_min": 28.95,
+      "group_min_ppl": 87.73,
+      "previous_group_min_ppl": null,
+      "drop_percent": 0.0,
+      "is_price_drop": false,
+      "updated_at": "2026-11-26T21:47:44-03:00"
+    },
+    {
+      "id": "9158ce0bab9b",
+      "group_id": "de-halve-maan-brugse-zot-dubbel",
+      "group_name": "De Halve Maan Brugse Zot Dubbel",
+      "brewery": "De Halve Maan",
+      "store": "Nono Bier",
+      "title": "Cerveja Belga Brugse Zot Dubbel 330ml",
+      "price": 29.5,
+      "volume_ml": 330,
+      "quantity": 1,
+      "price_per_liter": 89.39,
+      "available": true,
+      "url": "https://www.nonobier.com.br/cervejas-por-pais/cerveja-belga/cerveja-brugse-zot-dubbel-330ml",
+      "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_belga_brugse_zot_dubbel_330ml_2_20250801143106_14441d455d76.jpg",
+      "historical_min": 29.5,
+      "group_min_ppl": 89.39,
+      "previous_group_min_ppl": null,
+      "drop_percent": 0.0,
+      "is_price_drop": false,
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "36151b71868a",
@@ -1071,7 +1113,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "92a2bb4c86d5",
@@ -1092,7 +1134,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "3d4eb1f45eea",
@@ -1113,7 +1155,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "a61ce522b8ef",
@@ -1134,7 +1176,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "1255b9e703b2",
@@ -1155,7 +1197,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "ff9e3a323b0a",
@@ -1176,7 +1218,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "d48969fe7e3b",
@@ -1197,7 +1239,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "b2d53f7fb461",
@@ -1218,7 +1260,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "b479d56ebb60",
@@ -1239,7 +1281,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "66580235b802",
@@ -1260,7 +1302,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "3ca87c4aaa33",
@@ -1281,7 +1323,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "315dee152c61",
@@ -1302,7 +1344,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "1a34fe2e9ff0",
@@ -1323,7 +1365,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "eb726656ff88",
@@ -1344,7 +1386,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "2231a11f7c82",
@@ -1365,7 +1407,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "657e8e563aab",
@@ -1386,7 +1428,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "041d2097f422",
@@ -1407,7 +1449,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "7cc655a8143a",
@@ -1428,7 +1470,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "77070213cd2c",
@@ -1449,7 +1491,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "f6cafce4c5ee",
@@ -1470,7 +1512,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "b79ed334566e",
@@ -1491,7 +1533,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "1f32f11c38d3",
@@ -1512,7 +1554,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "83d7424badd7",
@@ -1533,7 +1575,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "c3dcbb6e79c4",
@@ -1554,7 +1596,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "8f2517d91f98",
@@ -1575,7 +1617,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "90e7d6601394",
@@ -1596,7 +1638,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "6d51402da294",
@@ -1617,7 +1659,28 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
+    },
+    {
+      "id": "d87ebaaf2e21",
+      "group_id": "de-halve-maan-straffe-hendrik-tripel",
+      "group_name": "De Halve Maan Straffe Hendrik Tripel",
+      "brewery": "De Halve Maan",
+      "store": "Nono Bier",
+      "title": "Cerveja Belga Straffe Hendrik Tripel 750ml",
+      "price": 89.0,
+      "volume_ml": 750,
+      "quantity": 1,
+      "price_per_liter": 118.67,
+      "available": true,
+      "url": "https://www.nonobier.com.br/cerveja-straffe-hendrik-tripel-750ml",
+      "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_straffe_hendrik_tripel_750ml_62977_1_20d8504d70862d0fcb0a70adaff82348.jpg",
+      "historical_min": 89.0,
+      "group_min_ppl": 118.67,
+      "previous_group_min_ppl": null,
+      "drop_percent": 0.0,
+      "is_price_drop": false,
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "aed105571bb6",
@@ -1638,7 +1701,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "12c44aebd0bf",
@@ -1659,7 +1722,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "98698671f58d",
@@ -1680,7 +1743,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "51ee6206a9b1",
@@ -1701,7 +1764,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "36062f760c90",
@@ -1722,7 +1785,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "a3ee26cc5a37",
@@ -1743,7 +1806,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "8d5f7cb1c2c0",
@@ -1764,7 +1827,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "7bbe61b095ee",
@@ -1785,7 +1848,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "095be98d1f3a",
@@ -1806,7 +1869,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "ccb6368ef5c9",
@@ -1827,7 +1890,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "14eb775b87c0",
@@ -1848,7 +1911,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "a54d506a6286",
@@ -1869,7 +1932,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "475eebcd7923",
@@ -1890,7 +1953,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "23d9bd532d66",
@@ -1911,7 +1974,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "b58a90d549ec",
@@ -1932,7 +1995,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "5d4c6979eb68",
@@ -1953,7 +2016,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "1138b09567ad",
@@ -1974,7 +2037,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "761d549e45ce",
@@ -1995,7 +2058,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "c4dc34b8a826",
@@ -2016,7 +2079,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "e24b7ebb1c2d",
@@ -2037,7 +2100,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "ee7fd84a2762",
@@ -2058,7 +2121,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "aff3a2a4c334",
@@ -2079,7 +2142,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "3009322931e2",
@@ -2100,7 +2163,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "d72869adaa47",
@@ -2121,7 +2184,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "f38622b1d34a",
@@ -2142,28 +2205,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
-    },
-    {
-      "id": "567ac951819a",
-      "group_id": "de-halve-maan-straffe-hendrik-quadrupel",
-      "group_name": "De Halve Maan Straffe Hendrik Quadrupel",
-      "brewery": "De Halve Maan",
-      "store": "Piquiri Brewshop",
-      "title": "Cerveja Straffe Hendrik Quadrupel - Garrafa 750ml",
-      "price": 139.99,
-      "volume_ml": 750,
-      "quantity": 1,
-      "price_per_liter": 186.65,
-      "available": true,
-      "url": "https://www.piquiribrewshop.com.br/cerveja-straffe-hendrik-quadrupel-garrafa-750ml",
-      "image": "https://cdn.awsli.com.br/300x300/431/431888/produto/402466063/b8c830edc64c37f9f58f3a88687ede35-ekx41tqqeh.jpeg",
-      "historical_min": 139.99,
-      "group_min_ppl": 186.65,
-      "previous_group_min_ppl": null,
-      "drop_percent": 0.0,
-      "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "b05f286d921b",
@@ -2184,7 +2226,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "ce47d37e0d57",
@@ -2205,7 +2247,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "61f0523c4379",
@@ -2226,7 +2268,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "e2637c1fdde7",
@@ -2247,7 +2289,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "eee6b15a6c77",
@@ -2268,7 +2310,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "08bf0364845c",
@@ -2289,7 +2331,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "ce96c64f7d20",
@@ -2310,7 +2352,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "f756c933a69a",
@@ -2331,7 +2373,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "e4edaccdbfd5",
@@ -2352,7 +2394,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "28858eca9ee8",
@@ -2373,7 +2415,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "e98fc5e31ff3",
@@ -2394,7 +2436,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "5117dfbd4987",
@@ -2415,7 +2457,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "9c0bf0246b55",
@@ -2436,28 +2478,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
-    },
-    {
-      "id": "9a25808f69b7",
-      "group_id": "de-halve-maan-xmas-blend-2024",
-      "group_name": "De Halve Maan Xmas Blend 2024",
-      "brewery": "De Halve Maan",
-      "store": "Nono Bier",
-      "title": "Cerveja Belga Straffe Hendrik Xmas Blend 2024 750ml",
-      "price": 199.0,
-      "volume_ml": 750,
-      "quantity": 1,
-      "price_per_liter": 265.33,
-      "available": true,
-      "url": "https://www.nonobier.com.br/cerveja-belga-straffe-hendrik-xmas-blend-2024-750ml",
-      "image": "https://images.tcdn.com.br/img/img_prod/1053976/180_cerveja_belga_straffe_hendrik_xmas_blend_2024_750m_1_20251124115723_7385ba8b781a.jpg",
-      "historical_min": 199.0,
-      "group_min_ppl": 265.33,
-      "previous_group_min_ppl": null,
-      "drop_percent": 0.0,
-      "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "4befaf2e082d",
@@ -2478,7 +2499,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "3b1f1f14e71e",
@@ -2499,7 +2520,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "e2814589d9ed",
@@ -2520,7 +2541,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "f34001fb0d61",
@@ -2541,7 +2562,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "e197aee6dbc1",
@@ -2562,7 +2583,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "76245ffccc61",
@@ -2583,7 +2604,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "0fff0390cb4d",
@@ -2604,7 +2625,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "8e616df94e54",
@@ -2625,7 +2646,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "9befb322d4b7",
@@ -2646,7 +2667,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "e210ac1895d1",
@@ -2667,7 +2688,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "37af79a6bacf",
@@ -2688,7 +2709,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "37de4fa17e1a",
@@ -2709,7 +2730,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "7ffaff12b27f",
@@ -2730,7 +2751,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "9ad1600c30b1",
@@ -2751,7 +2772,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "f73d9000eacf",
@@ -2772,7 +2793,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "f322c2bef3ef",
@@ -2793,7 +2814,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "dadba7718d84",
@@ -2814,7 +2835,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "0a08ce54a189",
@@ -2835,7 +2856,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "d56bfbaded8b",
@@ -2856,7 +2877,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "c5ff9485d78e",
@@ -2877,7 +2898,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "f2105df747ab",
@@ -2898,7 +2919,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "7516cad18974",
@@ -2919,7 +2940,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "b9285f077b6a",
@@ -2940,7 +2961,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "f1e30afcd676",
@@ -2961,7 +2982,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "1b5340ec6d88",
@@ -2982,7 +3003,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "95b81754bc9f",
@@ -3003,7 +3024,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "687967a132fa",
@@ -3024,7 +3045,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "6653198cad32",
@@ -3045,7 +3066,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "9e98f236feb7",
@@ -3066,7 +3087,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "d53d7e50e4cf",
@@ -3087,7 +3108,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "b1c5157ff1a6",
@@ -3108,7 +3129,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "496f14e46a5b",
@@ -3129,7 +3150,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "4750042b8943",
@@ -3150,7 +3171,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "6c17d421b9ea",
@@ -3171,7 +3192,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "54b0df337b8a",
@@ -3192,7 +3213,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "d233ec1cf3bc",
@@ -3213,7 +3234,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "012c748e7874",
@@ -3234,7 +3255,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "d37cc3f38c08",
@@ -3255,7 +3276,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "fdb304ef34d0",
@@ -3276,7 +3297,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "383e7a3f9d31",
@@ -3297,7 +3318,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "5e75e9fc574f",
@@ -3318,7 +3339,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "5d85eb1025f8",
@@ -3339,7 +3360,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "00d27ffea65f",
@@ -3360,7 +3381,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "597ff746a4d3",
@@ -3381,7 +3402,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "f7e1d16e52fd",
@@ -3402,7 +3423,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "5103d11a71cc",
@@ -3423,7 +3444,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "7a1baa6c37b6",
@@ -3444,7 +3465,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "3a03bec9adb5",
@@ -3465,7 +3486,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "191336ddfca0",
@@ -3486,7 +3507,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "d95140bd24e0",
@@ -3507,7 +3528,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "998bd423e82d",
@@ -3528,7 +3549,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "02eef4d95e16",
@@ -3549,7 +3570,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "db36815d1161",
@@ -3570,7 +3591,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "472f19237823",
@@ -3591,7 +3612,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "c48b3d5ca2dc",
@@ -3612,7 +3633,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "d3c6c0f21233",
@@ -3633,7 +3654,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "9a55d0d54d8c",
@@ -3654,7 +3675,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "77c21c4ad332",
@@ -3675,7 +3696,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "a723fc6bd49a",
@@ -3696,7 +3717,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "7e0349b2ffda",
@@ -3717,7 +3738,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "fa70234e3860",
@@ -3738,7 +3759,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "7159f814854b",
@@ -3759,7 +3780,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "6267ba8932d9",
@@ -3780,7 +3801,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "a1dc734f96a7",
@@ -3801,7 +3822,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "35192d99aa00",
@@ -3822,7 +3843,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "81378d79a92c",
@@ -3843,7 +3864,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     },
     {
       "id": "3e5acb31f5fb",
@@ -3864,7 +3885,7 @@
       "previous_group_min_ppl": null,
       "drop_percent": 0.0,
       "is_price_drop": false,
-      "updated_at": "2026-11-26T19:38:04-03:00"
+      "updated_at": "2026-11-26T21:47:44-03:00"
     }
   ]
 }
